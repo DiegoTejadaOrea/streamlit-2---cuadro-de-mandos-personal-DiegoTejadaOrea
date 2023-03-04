@@ -1,8 +1,10 @@
+import plotly.graph_objects as go
 import time
 import pandas as pd
 import streamlit as st
 import requests
 import plotly.express as px
+import matplotlib.pyplot as plt
 
 # URL con la lista de pokemones
 URL = 'https://gist.githubusercontent.com/armgilles/194bcff35001e7eb53a2a8b441e8b2c6/raw/92200bc0a673d5ce2110aaad4544ed6c4010f687/pokemon.csv'
@@ -26,24 +28,34 @@ st.header('ESTADÍSTICAS Y DATOS DE POKEMON')
 
 # ============ CARGA DE TABLA CON FILTROS ====================
 
-# Crear el sidebar
 st.sidebar.title('Seleccionar datos')
 option = st.sidebar.selectbox('Seleccione una opción', ('Mostrar todas las columnas',
-                              'Mostrar columnas específicas', 'Filtrar por generación', 'Filtrar por HP mínimo'))
+                              'Mostrar columnas específicas', 'Filtro personalizado'))
 
-# Mostrar los datos según la opción seleccionada
+# Mostrar los datos según la opción seleccionada type total vida speed generation
 if option == 'Mostrar todas las columnas':
     st.write(pokemon_data)
 elif option == 'Mostrar columnas específicas':
     selected_columns = st.sidebar.multiselect(
         'Seleccione las columnas que desea mostrar', pokemon_data.columns)
     st.write(pokemon_data[selected_columns])
-elif option == 'Filtrar por generación':
-    gen = st.sidebar.slider('Seleccione la generación', 1, 6)
-    st.write(pokemon_data[pokemon_data['Generation'] == gen])
 else:
-    hp_min = st.sidebar.text_input('Ingrese el HP mínimo:', value='0')
-    filtered_data = pokemon_data[pokemon_data['HP'] >= float(hp_min)]
+    types = st.sidebar.multiselect(
+        'Seleccione el tipo de Pokemon', pokemon_data['Type 1'].unique())
+    total = st.sidebar.number_input(
+        'Ingrese el valor mínimo de pts totales', min_value=0, max_value=780, value=0)
+    min_hp = st.sidebar.number_input(
+        'Ingrese el valor mínimo de HP', min_value=0, max_value=255, value=0)
+    speed = st.sidebar.number_input(
+        'Ingrese el valor mínimo velocidad', min_value=0, max_value=180, value=0)
+    legendary = st.sidebar.checkbox('Mostrar solo Pokemon legendarios')
+
+    filtered_data = pokemon_data[(pokemon_data['HP'] >= min_hp) & (
+        pokemon_data['Type 1'].isin(types))]
+
+    if legendary:
+        filtered_data = filtered_data[filtered_data['Legendary'] == True]
+
     st.write(filtered_data)
 
 
@@ -100,10 +112,40 @@ st.write(legendary_pokemons)
 # ==============================================================
 
 
-# ================= SALUD MINIMA FILTRADO POKEMON =========================
+# ================= FUERZA POKEMON =========================
+
+# Agrupar los datos por tipo y calcular la media del ataque para cada grupo
+attack_means = pokemon_data.groupby('Type 1')['Attack'].mean()
+
+# Crear la gráfica de barras
+fig, ax = plt.subplots(figsize=(10, 6))
+ax.bar(attack_means.index, attack_means.values)
+
+# Configurar los detalles del gráfico
+ax.set_title('Media de Ataque por Tipo')
+ax.set_xlabel('Tipo')
+ax.set_ylabel('Media de Ataque')
+
+plt.xticks(rotation=90)
+
+# Mostrar la gráfica
+st.pyplot(fig)
 
 
 # ==============================================================
+
+
+# Agrupar los datos por tipo y calcular la media del ataque
+# mean_attack_by_type = pokemon_data.groupby('Type 1')['Attack'].mean()
+
+# # Crear un DataFrame con los datos de la media de ataque por tipo
+# mean_attack_by_type_df = pd.DataFrame({'Type 1': mean_attack_by_type.index, 'Mean Attack': mean_attack_by_type.values})
+
+# # Crear el radar chart
+# fig = px.line_polar(mean_attack_by_type_df, r='Mean Attack', theta='Type 1', line_close=True)
+
+# # Mostrar el radar chart
+# st.plotly_chart(fig)
 
 
 # SELECCIONAR LA GENERACON DE POKEMON

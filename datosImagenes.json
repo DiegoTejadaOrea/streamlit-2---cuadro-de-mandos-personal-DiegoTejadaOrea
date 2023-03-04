@@ -1,0 +1,4778 @@
+[
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/bulbasaur.png",
+        "nombre": "Bulbasaur"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/ivysaur.png",
+        "nombre": "Ivysaur"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/venusaur.png",
+        "nombre": "Venusaur"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/venusaur-mega.png",
+        "nombre": "Mega Venusaur"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/charmander.png",
+        "nombre": "Charmander"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/charmeleon.png",
+        "nombre": "Charmeleon"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/charizard.png",
+        "nombre": "Charizard"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/charizard-mega-x.png",
+        "nombre": "Mega Charizard X"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/charizard-mega-y.png",
+        "nombre": "Mega Charizard Y"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/squirtle.png",
+        "nombre": "Squirtle"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/wartortle.png",
+        "nombre": "Wartortle"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/blastoise.png",
+        "nombre": "Blastoise"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/blastoise-mega.png",
+        "nombre": "Mega Blastoise"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/caterpie.png",
+        "nombre": "Caterpie"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/metapod.png",
+        "nombre": "Metapod"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/butterfree.png",
+        "nombre": "Butterfree"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/weedle.png",
+        "nombre": "Weedle"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/kakuna.png",
+        "nombre": "Kakuna"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/beedrill.png",
+        "nombre": "Beedrill"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/beedrill-mega.png",
+        "nombre": "Mega Beedrill"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/pidgey.png",
+        "nombre": "Pidgey"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/pidgeotto.png",
+        "nombre": "Pidgeotto"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/pidgeot.png",
+        "nombre": "Pidgeot"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/pidgeot-mega.png",
+        "nombre": "Mega Pidgeot"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/rattata.png",
+        "nombre": "Rattata"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/rattata-alolan.png",
+        "nombre": "Alolan Rattata"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/raticate.png",
+        "nombre": "Raticate"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/raticate-alolan.png",
+        "nombre": "Alolan Raticate"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/spearow.png",
+        "nombre": "Spearow"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/fearow.png",
+        "nombre": "Fearow"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/ekans.png",
+        "nombre": "Ekans"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/arbok.png",
+        "nombre": "Arbok"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/pikachu.png",
+        "nombre": "Pikachu"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/pikachu-lets-go.png",
+        "nombre": "Pikachu (Partner Pikachu)"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/raichu.png",
+        "nombre": "Raichu"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/raichu-alolan.png",
+        "nombre": "Alolan Raichu"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/sandshrew.png",
+        "nombre": "Sandshrew"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/sandshrew-alolan.png",
+        "nombre": "Alolan Sandshrew"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/sandslash.png",
+        "nombre": "Sandslash"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/sandslash-alolan.png",
+        "nombre": "Alolan Sandslash"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/nidoran-f.png",
+        "nombre": "Nidoran\u2640"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/nidorina.png",
+        "nombre": "Nidorina"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/nidoqueen.png",
+        "nombre": "Nidoqueen"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/nidoran-m.png",
+        "nombre": "Nidoran\u2642"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/nidorino.png",
+        "nombre": "Nidorino"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/nidoking.png",
+        "nombre": "Nidoking"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/clefairy.png",
+        "nombre": "Clefairy"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/clefable.png",
+        "nombre": "Clefable"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/vulpix.png",
+        "nombre": "Vulpix"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/vulpix-alolan.png",
+        "nombre": "Alolan Vulpix"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/ninetales.png",
+        "nombre": "Ninetales"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/ninetales-alolan.png",
+        "nombre": "Alolan Ninetales"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/jigglypuff.png",
+        "nombre": "Jigglypuff"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/wigglytuff.png",
+        "nombre": "Wigglytuff"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/zubat.png",
+        "nombre": "Zubat"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/golbat.png",
+        "nombre": "Golbat"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/oddish.png",
+        "nombre": "Oddish"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/gloom.png",
+        "nombre": "Gloom"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/vileplume.png",
+        "nombre": "Vileplume"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/paras.png",
+        "nombre": "Paras"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/parasect.png",
+        "nombre": "Parasect"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/venonat.png",
+        "nombre": "Venonat"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/venomoth.png",
+        "nombre": "Venomoth"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/diglett.png",
+        "nombre": "Diglett"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/diglett-alolan.png",
+        "nombre": "Alolan Diglett"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/dugtrio.png",
+        "nombre": "Dugtrio"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/dugtrio-alolan.png",
+        "nombre": "Alolan Dugtrio"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/meowth.png",
+        "nombre": "Meowth"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/meowth-alolan.png",
+        "nombre": "Alolan Meowth"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/meowth-galarian.png",
+        "nombre": "Galarian Meowth"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/persian.png",
+        "nombre": "Persian"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/persian-alolan.png",
+        "nombre": "Alolan Persian"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/psyduck.png",
+        "nombre": "Psyduck"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/golduck.png",
+        "nombre": "Golduck"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/mankey.png",
+        "nombre": "Mankey"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/primeape.png",
+        "nombre": "Primeape"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/growlithe.png",
+        "nombre": "Growlithe"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/scarlet-violet/icon/growlithe-hisuian.png",
+        "nombre": "Growlithe (Hisuian Growlithe)"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/arcanine.png",
+        "nombre": "Arcanine"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/scarlet-violet/icon/arcanine-hisuian.png",
+        "nombre": "Arcanine (Hisuian Arcanine)"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/poliwag.png",
+        "nombre": "Poliwag"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/poliwhirl.png",
+        "nombre": "Poliwhirl"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/poliwrath.png",
+        "nombre": "Poliwrath"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/abra.png",
+        "nombre": "Abra"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/kadabra.png",
+        "nombre": "Kadabra"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/alakazam.png",
+        "nombre": "Alakazam"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/alakazam-mega.png",
+        "nombre": "Mega Alakazam"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/machop.png",
+        "nombre": "Machop"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/machoke.png",
+        "nombre": "Machoke"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/machamp.png",
+        "nombre": "Machamp"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/bellsprout.png",
+        "nombre": "Bellsprout"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/weepinbell.png",
+        "nombre": "Weepinbell"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/victreebel.png",
+        "nombre": "Victreebel"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/tentacool.png",
+        "nombre": "Tentacool"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/tentacruel.png",
+        "nombre": "Tentacruel"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/geodude.png",
+        "nombre": "Geodude"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/geodude-alolan.png",
+        "nombre": "Alolan Geodude"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/graveler.png",
+        "nombre": "Graveler"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/graveler-alolan.png",
+        "nombre": "Alolan Graveler"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/golem.png",
+        "nombre": "Golem"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/golem-alolan.png",
+        "nombre": "Alolan Golem"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/ponyta.png",
+        "nombre": "Ponyta"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/ponyta-galarian.png",
+        "nombre": "Galarian Ponyta"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/rapidash.png",
+        "nombre": "Rapidash"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/rapidash-galarian.png",
+        "nombre": "Galarian Rapidash"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/slowpoke.png",
+        "nombre": "Slowpoke"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/slowpoke-galarian.png",
+        "nombre": "Galarian Slowpoke"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/slowbro.png",
+        "nombre": "Slowbro"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/slowbro-mega.png",
+        "nombre": "Mega Slowbro"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/slowbro-galarian.png",
+        "nombre": "Galarian Slowbro"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/magnemite.png",
+        "nombre": "Magnemite"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/magneton.png",
+        "nombre": "Magneton"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/farfetchd.png",
+        "nombre": "Farfetch'd"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/farfetchd-galarian.png",
+        "nombre": "Galarian Farfetch'd"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/doduo.png",
+        "nombre": "Doduo"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/dodrio.png",
+        "nombre": "Dodrio"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/seel.png",
+        "nombre": "Seel"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/dewgong.png",
+        "nombre": "Dewgong"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/grimer.png",
+        "nombre": "Grimer"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/grimer-alolan.png",
+        "nombre": "Alolan Grimer"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/muk.png",
+        "nombre": "Muk"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/muk-alolan.png",
+        "nombre": "Alolan Muk"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/shellder.png",
+        "nombre": "Shellder"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/cloyster.png",
+        "nombre": "Cloyster"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/gastly.png",
+        "nombre": "Gastly"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/haunter.png",
+        "nombre": "Haunter"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/gengar.png",
+        "nombre": "Gengar"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/gengar-mega.png",
+        "nombre": "Mega Gengar"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/onix.png",
+        "nombre": "Onix"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/drowzee.png",
+        "nombre": "Drowzee"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/hypno.png",
+        "nombre": "Hypno"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/krabby.png",
+        "nombre": "Krabby"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/kingler.png",
+        "nombre": "Kingler"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/voltorb.png",
+        "nombre": "Voltorb"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/scarlet-violet/icon/voltorb-hisuian.png",
+        "nombre": "Voltorb (Hisuian Voltorb)"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/electrode.png",
+        "nombre": "Electrode"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/scarlet-violet/icon/electrode-hisuian.png",
+        "nombre": "Electrode (Hisuian Electrode)"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/exeggcute.png",
+        "nombre": "Exeggcute"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/exeggutor.png",
+        "nombre": "Exeggutor"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/exeggutor-alolan.png",
+        "nombre": "Alolan Exeggutor"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/cubone.png",
+        "nombre": "Cubone"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/marowak.png",
+        "nombre": "Marowak"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/marowak-alolan.png",
+        "nombre": "Alolan Marowak"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/hitmonlee.png",
+        "nombre": "Hitmonlee"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/hitmonchan.png",
+        "nombre": "Hitmonchan"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/lickitung.png",
+        "nombre": "Lickitung"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/koffing.png",
+        "nombre": "Koffing"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/weezing.png",
+        "nombre": "Weezing"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/weezing-galarian.png",
+        "nombre": "Galarian Weezing"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/rhyhorn.png",
+        "nombre": "Rhyhorn"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/rhydon.png",
+        "nombre": "Rhydon"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/chansey.png",
+        "nombre": "Chansey"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/tangela.png",
+        "nombre": "Tangela"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/kangaskhan.png",
+        "nombre": "Kangaskhan"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/kangaskhan-mega.png",
+        "nombre": "Mega Kangaskhan"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/horsea.png",
+        "nombre": "Horsea"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/seadra.png",
+        "nombre": "Seadra"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/goldeen.png",
+        "nombre": "Goldeen"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/seaking.png",
+        "nombre": "Seaking"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/staryu.png",
+        "nombre": "Staryu"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/starmie.png",
+        "nombre": "Starmie"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/mr-mime.png",
+        "nombre": "Mr. Mime"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/mr-mime-galarian.png",
+        "nombre": "Galarian Mr. Mime"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/scyther.png",
+        "nombre": "Scyther"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/jynx.png",
+        "nombre": "Jynx"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/electabuzz.png",
+        "nombre": "Electabuzz"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/magmar.png",
+        "nombre": "Magmar"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/pinsir.png",
+        "nombre": "Pinsir"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/pinsir-mega.png",
+        "nombre": "Mega Pinsir"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/tauros.png",
+        "nombre": "Tauros"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/scarlet-violet/icon/tauros-paldean.png",
+        "nombre": "Tauros (Combat Breed)"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/scarlet-violet/icon/tauros-blaze.png",
+        "nombre": "Tauros (Blaze Breed)"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/scarlet-violet/icon/tauros-aqua.png",
+        "nombre": "Tauros (Aqua Breed)"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/magikarp.png",
+        "nombre": "Magikarp"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/gyarados.png",
+        "nombre": "Gyarados"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/gyarados-mega.png",
+        "nombre": "Mega Gyarados"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/lapras.png",
+        "nombre": "Lapras"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/ditto.png",
+        "nombre": "Ditto"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/eevee.png",
+        "nombre": "Eevee"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/eevee-lets-go.png",
+        "nombre": "Eevee (Partner Eevee)"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/vaporeon.png",
+        "nombre": "Vaporeon"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/jolteon.png",
+        "nombre": "Jolteon"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/flareon.png",
+        "nombre": "Flareon"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/porygon.png",
+        "nombre": "Porygon"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/omanyte.png",
+        "nombre": "Omanyte"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/omastar.png",
+        "nombre": "Omastar"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/kabuto.png",
+        "nombre": "Kabuto"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/kabutops.png",
+        "nombre": "Kabutops"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/aerodactyl.png",
+        "nombre": "Aerodactyl"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/aerodactyl-mega.png",
+        "nombre": "Mega Aerodactyl"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/snorlax.png",
+        "nombre": "Snorlax"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/articuno.png",
+        "nombre": "Articuno"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/articuno-galarian.png",
+        "nombre": "Galarian Articuno"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/zapdos.png",
+        "nombre": "Zapdos"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/zapdos-galarian.png",
+        "nombre": "Galarian Zapdos"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/moltres.png",
+        "nombre": "Moltres"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/moltres-galarian.png",
+        "nombre": "Galarian Moltres"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/dratini.png",
+        "nombre": "Dratini"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/dragonair.png",
+        "nombre": "Dragonair"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/dragonite.png",
+        "nombre": "Dragonite"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/mewtwo.png",
+        "nombre": "Mewtwo"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/mewtwo-mega-x.png",
+        "nombre": "Mega Mewtwo X"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/mewtwo-mega-y.png",
+        "nombre": "Mega Mewtwo Y"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/mew.png",
+        "nombre": "Mew"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/chikorita.png",
+        "nombre": "Chikorita"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/bayleef.png",
+        "nombre": "Bayleef"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/meganium.png",
+        "nombre": "Meganium"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/cyndaquil.png",
+        "nombre": "Cyndaquil"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/quilava.png",
+        "nombre": "Quilava"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/typhlosion.png",
+        "nombre": "Typhlosion"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/scarlet-violet/icon/typhlosion-hisuian.png",
+        "nombre": "Typhlosion (Hisuian Typhlosion)"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/totodile.png",
+        "nombre": "Totodile"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/croconaw.png",
+        "nombre": "Croconaw"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/feraligatr.png",
+        "nombre": "Feraligatr"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/sentret.png",
+        "nombre": "Sentret"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/furret.png",
+        "nombre": "Furret"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/hoothoot.png",
+        "nombre": "Hoothoot"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/noctowl.png",
+        "nombre": "Noctowl"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/ledyba.png",
+        "nombre": "Ledyba"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/ledian.png",
+        "nombre": "Ledian"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/spinarak.png",
+        "nombre": "Spinarak"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/ariados.png",
+        "nombre": "Ariados"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/crobat.png",
+        "nombre": "Crobat"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/chinchou.png",
+        "nombre": "Chinchou"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/lanturn.png",
+        "nombre": "Lanturn"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/pichu.png",
+        "nombre": "Pichu"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/cleffa.png",
+        "nombre": "Cleffa"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/igglybuff.png",
+        "nombre": "Igglybuff"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/togepi.png",
+        "nombre": "Togepi"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/togetic.png",
+        "nombre": "Togetic"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/natu.png",
+        "nombre": "Natu"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/xatu.png",
+        "nombre": "Xatu"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/mareep.png",
+        "nombre": "Mareep"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/flaaffy.png",
+        "nombre": "Flaaffy"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/ampharos.png",
+        "nombre": "Ampharos"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/ampharos-mega.png",
+        "nombre": "Mega Ampharos"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/bellossom.png",
+        "nombre": "Bellossom"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/marill.png",
+        "nombre": "Marill"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/azumarill.png",
+        "nombre": "Azumarill"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/sudowoodo.png",
+        "nombre": "Sudowoodo"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/politoed.png",
+        "nombre": "Politoed"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/hoppip.png",
+        "nombre": "Hoppip"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/skiploom.png",
+        "nombre": "Skiploom"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/jumpluff.png",
+        "nombre": "Jumpluff"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/aipom.png",
+        "nombre": "Aipom"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/sunkern.png",
+        "nombre": "Sunkern"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/sunflora.png",
+        "nombre": "Sunflora"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/yanma.png",
+        "nombre": "Yanma"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/wooper.png",
+        "nombre": "Wooper"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/scarlet-violet/icon/wooper-paldean.png",
+        "nombre": "Wooper (Paldean Wooper)"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/quagsire.png",
+        "nombre": "Quagsire"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/espeon.png",
+        "nombre": "Espeon"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/umbreon.png",
+        "nombre": "Umbreon"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/murkrow.png",
+        "nombre": "Murkrow"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/slowking.png",
+        "nombre": "Slowking"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/slowking-galarian.png",
+        "nombre": "Galarian Slowking"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/misdreavus.png",
+        "nombre": "Misdreavus"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/unown.png",
+        "nombre": "Unown"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/wobbuffet.png",
+        "nombre": "Wobbuffet"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/girafarig.png",
+        "nombre": "Girafarig"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/pineco.png",
+        "nombre": "Pineco"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/forretress.png",
+        "nombre": "Forretress"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/dunsparce.png",
+        "nombre": "Dunsparce"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/gligar.png",
+        "nombre": "Gligar"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/steelix.png",
+        "nombre": "Steelix"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/steelix-mega.png",
+        "nombre": "Mega Steelix"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/snubbull.png",
+        "nombre": "Snubbull"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/granbull.png",
+        "nombre": "Granbull"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/qwilfish.png",
+        "nombre": "Qwilfish"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/scarlet-violet/icon/qwilfish-hisuian.png",
+        "nombre": "Qwilfish (Hisuian Qwilfish)"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/scizor.png",
+        "nombre": "Scizor"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/scizor-mega.png",
+        "nombre": "Mega Scizor"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/shuckle.png",
+        "nombre": "Shuckle"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/heracross.png",
+        "nombre": "Heracross"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/heracross-mega.png",
+        "nombre": "Mega Heracross"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/sneasel.png",
+        "nombre": "Sneasel"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/scarlet-violet/icon/sneasel-hisuian.png",
+        "nombre": "Sneasel (Hisuian Sneasel)"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/teddiursa.png",
+        "nombre": "Teddiursa"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/ursaring.png",
+        "nombre": "Ursaring"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/slugma.png",
+        "nombre": "Slugma"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/magcargo.png",
+        "nombre": "Magcargo"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/swinub.png",
+        "nombre": "Swinub"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/piloswine.png",
+        "nombre": "Piloswine"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/corsola.png",
+        "nombre": "Corsola"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/corsola-galarian.png",
+        "nombre": "Galarian Corsola"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/remoraid.png",
+        "nombre": "Remoraid"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/octillery.png",
+        "nombre": "Octillery"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/delibird.png",
+        "nombre": "Delibird"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/mantine.png",
+        "nombre": "Mantine"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/skarmory.png",
+        "nombre": "Skarmory"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/houndour.png",
+        "nombre": "Houndour"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/houndoom.png",
+        "nombre": "Houndoom"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/houndoom-mega.png",
+        "nombre": "Mega Houndoom"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/kingdra.png",
+        "nombre": "Kingdra"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/phanpy.png",
+        "nombre": "Phanpy"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/donphan.png",
+        "nombre": "Donphan"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/porygon2.png",
+        "nombre": "Porygon2"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/stantler.png",
+        "nombre": "Stantler"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/smeargle.png",
+        "nombre": "Smeargle"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/tyrogue.png",
+        "nombre": "Tyrogue"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/hitmontop.png",
+        "nombre": "Hitmontop"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/smoochum.png",
+        "nombre": "Smoochum"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/elekid.png",
+        "nombre": "Elekid"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/magby.png",
+        "nombre": "Magby"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/miltank.png",
+        "nombre": "Miltank"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/blissey.png",
+        "nombre": "Blissey"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/raikou.png",
+        "nombre": "Raikou"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/entei.png",
+        "nombre": "Entei"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/suicune.png",
+        "nombre": "Suicune"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/larvitar.png",
+        "nombre": "Larvitar"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/pupitar.png",
+        "nombre": "Pupitar"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/tyranitar.png",
+        "nombre": "Tyranitar"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/tyranitar-mega.png",
+        "nombre": "Mega Tyranitar"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/lugia.png",
+        "nombre": "Lugia"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/ho-oh.png",
+        "nombre": "Ho-oh"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/celebi.png",
+        "nombre": "Celebi"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/treecko.png",
+        "nombre": "Treecko"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/grovyle.png",
+        "nombre": "Grovyle"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/sceptile.png",
+        "nombre": "Sceptile"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/sceptile-mega.png",
+        "nombre": "Mega Sceptile"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/torchic.png",
+        "nombre": "Torchic"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/combusken.png",
+        "nombre": "Combusken"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/blaziken.png",
+        "nombre": "Blaziken"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/blaziken-mega.png",
+        "nombre": "Mega Blaziken"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/mudkip.png",
+        "nombre": "Mudkip"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/marshtomp.png",
+        "nombre": "Marshtomp"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/swampert.png",
+        "nombre": "Swampert"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/swampert-mega.png",
+        "nombre": "Mega Swampert"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/poochyena.png",
+        "nombre": "Poochyena"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/mightyena.png",
+        "nombre": "Mightyena"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/zigzagoon.png",
+        "nombre": "Zigzagoon"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/zigzagoon-galarian.png",
+        "nombre": "Galarian Zigzagoon"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/linoone.png",
+        "nombre": "Linoone"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/linoone-galarian.png",
+        "nombre": "Galarian Linoone"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/wurmple.png",
+        "nombre": "Wurmple"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/silcoon.png",
+        "nombre": "Silcoon"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/beautifly.png",
+        "nombre": "Beautifly"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/cascoon.png",
+        "nombre": "Cascoon"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/dustox.png",
+        "nombre": "Dustox"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/lotad.png",
+        "nombre": "Lotad"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/lombre.png",
+        "nombre": "Lombre"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/ludicolo.png",
+        "nombre": "Ludicolo"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/seedot.png",
+        "nombre": "Seedot"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/nuzleaf.png",
+        "nombre": "Nuzleaf"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/shiftry.png",
+        "nombre": "Shiftry"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/taillow.png",
+        "nombre": "Taillow"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/swellow.png",
+        "nombre": "Swellow"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/wingull.png",
+        "nombre": "Wingull"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/pelipper.png",
+        "nombre": "Pelipper"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/ralts.png",
+        "nombre": "Ralts"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/kirlia.png",
+        "nombre": "Kirlia"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/gardevoir.png",
+        "nombre": "Gardevoir"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/gardevoir-mega.png",
+        "nombre": "Mega Gardevoir"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/surskit.png",
+        "nombre": "Surskit"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/masquerain.png",
+        "nombre": "Masquerain"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/shroomish.png",
+        "nombre": "Shroomish"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/breloom.png",
+        "nombre": "Breloom"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/slakoth.png",
+        "nombre": "Slakoth"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/vigoroth.png",
+        "nombre": "Vigoroth"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/slaking.png",
+        "nombre": "Slaking"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/nincada.png",
+        "nombre": "Nincada"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/ninjask.png",
+        "nombre": "Ninjask"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/shedinja.png",
+        "nombre": "Shedinja"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/whismur.png",
+        "nombre": "Whismur"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/loudred.png",
+        "nombre": "Loudred"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/exploud.png",
+        "nombre": "Exploud"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/makuhita.png",
+        "nombre": "Makuhita"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/hariyama.png",
+        "nombre": "Hariyama"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/azurill.png",
+        "nombre": "Azurill"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/nosepass.png",
+        "nombre": "Nosepass"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/skitty.png",
+        "nombre": "Skitty"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/delcatty.png",
+        "nombre": "Delcatty"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/sableye.png",
+        "nombre": "Sableye"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/sableye-mega.png",
+        "nombre": "Mega Sableye"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/mawile.png",
+        "nombre": "Mawile"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/mawile-mega.png",
+        "nombre": "Mega Mawile"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/aron.png",
+        "nombre": "Aron"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/lairon.png",
+        "nombre": "Lairon"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/aggron.png",
+        "nombre": "Aggron"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/aggron-mega.png",
+        "nombre": "Mega Aggron"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/meditite.png",
+        "nombre": "Meditite"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/medicham.png",
+        "nombre": "Medicham"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/medicham-mega.png",
+        "nombre": "Mega Medicham"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/electrike.png",
+        "nombre": "Electrike"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/manectric.png",
+        "nombre": "Manectric"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/manectric-mega.png",
+        "nombre": "Mega Manectric"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/plusle.png",
+        "nombre": "Plusle"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/minun.png",
+        "nombre": "Minun"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/volbeat.png",
+        "nombre": "Volbeat"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/illumise.png",
+        "nombre": "Illumise"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/roselia.png",
+        "nombre": "Roselia"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/gulpin.png",
+        "nombre": "Gulpin"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/swalot.png",
+        "nombre": "Swalot"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/carvanha.png",
+        "nombre": "Carvanha"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/sharpedo.png",
+        "nombre": "Sharpedo"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/sharpedo-mega.png",
+        "nombre": "Mega Sharpedo"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/wailmer.png",
+        "nombre": "Wailmer"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/wailord.png",
+        "nombre": "Wailord"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/numel.png",
+        "nombre": "Numel"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/camerupt.png",
+        "nombre": "Camerupt"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/camerupt-mega.png",
+        "nombre": "Mega Camerupt"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/torkoal.png",
+        "nombre": "Torkoal"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/spoink.png",
+        "nombre": "Spoink"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/grumpig.png",
+        "nombre": "Grumpig"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/spinda.png",
+        "nombre": "Spinda"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/trapinch.png",
+        "nombre": "Trapinch"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/vibrava.png",
+        "nombre": "Vibrava"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/flygon.png",
+        "nombre": "Flygon"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/cacnea.png",
+        "nombre": "Cacnea"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/cacturne.png",
+        "nombre": "Cacturne"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/swablu.png",
+        "nombre": "Swablu"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/altaria.png",
+        "nombre": "Altaria"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/altaria-mega.png",
+        "nombre": "Mega Altaria"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/zangoose.png",
+        "nombre": "Zangoose"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/seviper.png",
+        "nombre": "Seviper"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/lunatone.png",
+        "nombre": "Lunatone"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/solrock.png",
+        "nombre": "Solrock"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/barboach.png",
+        "nombre": "Barboach"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/whiscash.png",
+        "nombre": "Whiscash"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/corphish.png",
+        "nombre": "Corphish"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/crawdaunt.png",
+        "nombre": "Crawdaunt"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/baltoy.png",
+        "nombre": "Baltoy"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/claydol.png",
+        "nombre": "Claydol"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/lileep.png",
+        "nombre": "Lileep"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/cradily.png",
+        "nombre": "Cradily"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/anorith.png",
+        "nombre": "Anorith"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/armaldo.png",
+        "nombre": "Armaldo"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/feebas.png",
+        "nombre": "Feebas"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/milotic.png",
+        "nombre": "Milotic"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/castform.png",
+        "nombre": "Castform"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/castform-sunny.png",
+        "nombre": "Castform (Sunny Form)"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/castform-rainy.png",
+        "nombre": "Castform (Rainy Form)"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/castform-snowy.png",
+        "nombre": "Castform (Snowy Form)"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/kecleon.png",
+        "nombre": "Kecleon"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/shuppet.png",
+        "nombre": "Shuppet"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/banette.png",
+        "nombre": "Banette"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/banette-mega.png",
+        "nombre": "Mega Banette"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/duskull.png",
+        "nombre": "Duskull"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/dusclops.png",
+        "nombre": "Dusclops"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/tropius.png",
+        "nombre": "Tropius"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/chimecho.png",
+        "nombre": "Chimecho"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/absol.png",
+        "nombre": "Absol"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/absol-mega.png",
+        "nombre": "Mega Absol"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/wynaut.png",
+        "nombre": "Wynaut"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/snorunt.png",
+        "nombre": "Snorunt"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/glalie.png",
+        "nombre": "Glalie"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/glalie-mega.png",
+        "nombre": "Mega Glalie"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/spheal.png",
+        "nombre": "Spheal"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/sealeo.png",
+        "nombre": "Sealeo"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/walrein.png",
+        "nombre": "Walrein"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/clamperl.png",
+        "nombre": "Clamperl"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/huntail.png",
+        "nombre": "Huntail"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/gorebyss.png",
+        "nombre": "Gorebyss"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/relicanth.png",
+        "nombre": "Relicanth"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/luvdisc.png",
+        "nombre": "Luvdisc"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/bagon.png",
+        "nombre": "Bagon"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/shelgon.png",
+        "nombre": "Shelgon"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/salamence.png",
+        "nombre": "Salamence"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/salamence-mega.png",
+        "nombre": "Mega Salamence"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/beldum.png",
+        "nombre": "Beldum"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/metang.png",
+        "nombre": "Metang"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/metagross.png",
+        "nombre": "Metagross"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/metagross-mega.png",
+        "nombre": "Mega Metagross"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/regirock.png",
+        "nombre": "Regirock"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/regice.png",
+        "nombre": "Regice"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/registeel.png",
+        "nombre": "Registeel"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/latias.png",
+        "nombre": "Latias"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/latias-mega.png",
+        "nombre": "Mega Latias"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/latios.png",
+        "nombre": "Latios"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/latios-mega.png",
+        "nombre": "Mega Latios"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/kyogre.png",
+        "nombre": "Kyogre"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/kyogre-primal.png",
+        "nombre": "Primal Kyogre"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/groudon.png",
+        "nombre": "Groudon"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/groudon-primal.png",
+        "nombre": "Primal Groudon"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/rayquaza.png",
+        "nombre": "Rayquaza"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/rayquaza-mega.png",
+        "nombre": "Mega Rayquaza"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/jirachi.png",
+        "nombre": "Jirachi"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/deoxys-normal.png",
+        "nombre": "Deoxys (Normal Forme)"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/deoxys-attack.png",
+        "nombre": "Deoxys (Attack Forme)"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/deoxys-defense.png",
+        "nombre": "Deoxys (Defense Forme)"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/deoxys-speed.png",
+        "nombre": "Deoxys (Speed Forme)"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/turtwig.png",
+        "nombre": "Turtwig"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/grotle.png",
+        "nombre": "Grotle"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/torterra.png",
+        "nombre": "Torterra"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/chimchar.png",
+        "nombre": "Chimchar"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/monferno.png",
+        "nombre": "Monferno"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/infernape.png",
+        "nombre": "Infernape"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/piplup.png",
+        "nombre": "Piplup"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/prinplup.png",
+        "nombre": "Prinplup"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/empoleon.png",
+        "nombre": "Empoleon"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/starly.png",
+        "nombre": "Starly"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/staravia.png",
+        "nombre": "Staravia"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/staraptor.png",
+        "nombre": "Staraptor"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/bidoof.png",
+        "nombre": "Bidoof"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/bibarel.png",
+        "nombre": "Bibarel"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/kricketot.png",
+        "nombre": "Kricketot"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/kricketune.png",
+        "nombre": "Kricketune"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/shinx.png",
+        "nombre": "Shinx"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/luxio.png",
+        "nombre": "Luxio"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/luxray.png",
+        "nombre": "Luxray"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/budew.png",
+        "nombre": "Budew"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/roserade.png",
+        "nombre": "Roserade"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/cranidos.png",
+        "nombre": "Cranidos"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/rampardos.png",
+        "nombre": "Rampardos"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/shieldon.png",
+        "nombre": "Shieldon"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/bastiodon.png",
+        "nombre": "Bastiodon"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/burmy-plant.png",
+        "nombre": "Burmy (Plant Cloak)"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/burmy-sandy.png",
+        "nombre": "Burmy (Sandy Cloak)"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/burmy-trash.png",
+        "nombre": "Burmy (Trash Cloak)"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/wormadam-plant.png",
+        "nombre": "Wormadam (Plant Cloak)"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/wormadam-sandy.png",
+        "nombre": "Wormadam (Sandy Cloak)"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/wormadam-trash.png",
+        "nombre": "Wormadam (Trash Cloak)"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/mothim.png",
+        "nombre": "Mothim"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/combee.png",
+        "nombre": "Combee"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/vespiquen.png",
+        "nombre": "Vespiquen"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/pachirisu.png",
+        "nombre": "Pachirisu"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/buizel.png",
+        "nombre": "Buizel"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/floatzel.png",
+        "nombre": "Floatzel"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/cherubi.png",
+        "nombre": "Cherubi"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/cherrim.png",
+        "nombre": "Cherrim"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/shellos.png",
+        "nombre": "Shellos"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/gastrodon.png",
+        "nombre": "Gastrodon"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/ambipom.png",
+        "nombre": "Ambipom"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/drifloon.png",
+        "nombre": "Drifloon"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/drifblim.png",
+        "nombre": "Drifblim"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/buneary.png",
+        "nombre": "Buneary"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/lopunny.png",
+        "nombre": "Lopunny"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/lopunny-mega.png",
+        "nombre": "Mega Lopunny"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/mismagius.png",
+        "nombre": "Mismagius"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/honchkrow.png",
+        "nombre": "Honchkrow"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/glameow.png",
+        "nombre": "Glameow"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/purugly.png",
+        "nombre": "Purugly"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/chingling.png",
+        "nombre": "Chingling"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/stunky.png",
+        "nombre": "Stunky"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/skuntank.png",
+        "nombre": "Skuntank"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/bronzor.png",
+        "nombre": "Bronzor"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/bronzong.png",
+        "nombre": "Bronzong"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/bonsly.png",
+        "nombre": "Bonsly"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/mime-jr.png",
+        "nombre": "Mime Jr."
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/happiny.png",
+        "nombre": "Happiny"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/chatot.png",
+        "nombre": "Chatot"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/spiritomb.png",
+        "nombre": "Spiritomb"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/gible.png",
+        "nombre": "Gible"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/gabite.png",
+        "nombre": "Gabite"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/garchomp.png",
+        "nombre": "Garchomp"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/garchomp-mega.png",
+        "nombre": "Mega Garchomp"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/munchlax.png",
+        "nombre": "Munchlax"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/riolu.png",
+        "nombre": "Riolu"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/lucario.png",
+        "nombre": "Lucario"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/lucario-mega.png",
+        "nombre": "Mega Lucario"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/hippopotas.png",
+        "nombre": "Hippopotas"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/hippowdon.png",
+        "nombre": "Hippowdon"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/skorupi.png",
+        "nombre": "Skorupi"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/drapion.png",
+        "nombre": "Drapion"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/croagunk.png",
+        "nombre": "Croagunk"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/toxicroak.png",
+        "nombre": "Toxicroak"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/carnivine.png",
+        "nombre": "Carnivine"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/finneon.png",
+        "nombre": "Finneon"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/lumineon.png",
+        "nombre": "Lumineon"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/mantyke.png",
+        "nombre": "Mantyke"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/snover.png",
+        "nombre": "Snover"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/abomasnow.png",
+        "nombre": "Abomasnow"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/abomasnow-mega.png",
+        "nombre": "Mega Abomasnow"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/weavile.png",
+        "nombre": "Weavile"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/magnezone.png",
+        "nombre": "Magnezone"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/lickilicky.png",
+        "nombre": "Lickilicky"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/rhyperior.png",
+        "nombre": "Rhyperior"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/tangrowth.png",
+        "nombre": "Tangrowth"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/electivire.png",
+        "nombre": "Electivire"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/magmortar.png",
+        "nombre": "Magmortar"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/togekiss.png",
+        "nombre": "Togekiss"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/yanmega.png",
+        "nombre": "Yanmega"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/leafeon.png",
+        "nombre": "Leafeon"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/glaceon.png",
+        "nombre": "Glaceon"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/gliscor.png",
+        "nombre": "Gliscor"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/mamoswine.png",
+        "nombre": "Mamoswine"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/porygon-z.png",
+        "nombre": "Porygon-Z"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/gallade.png",
+        "nombre": "Gallade"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/gallade-mega.png",
+        "nombre": "Mega Gallade"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/probopass.png",
+        "nombre": "Probopass"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/dusknoir.png",
+        "nombre": "Dusknoir"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/froslass.png",
+        "nombre": "Froslass"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/rotom.png",
+        "nombre": "Rotom"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/rotom-heat.png",
+        "nombre": "Rotom (Heat Rotom)"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/rotom-wash.png",
+        "nombre": "Rotom (Wash Rotom)"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/rotom-frost.png",
+        "nombre": "Rotom (Frost Rotom)"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/rotom-fan.png",
+        "nombre": "Rotom (Fan Rotom)"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/rotom-mow.png",
+        "nombre": "Rotom (Mow Rotom)"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/uxie.png",
+        "nombre": "Uxie"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/mesprit.png",
+        "nombre": "Mesprit"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/azelf.png",
+        "nombre": "Azelf"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/dialga.png",
+        "nombre": "Dialga"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/scarlet-violet/icon/dialga-origin.png",
+        "nombre": "Dialga (Origin Forme)"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/palkia.png",
+        "nombre": "Palkia"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/scarlet-violet/icon/palkia-origin.png",
+        "nombre": "Palkia (Origin Forme)"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/heatran.png",
+        "nombre": "Heatran"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/regigigas.png",
+        "nombre": "Regigigas"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/giratina-altered.png",
+        "nombre": "Giratina (Altered Forme)"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/giratina-origin.png",
+        "nombre": "Giratina (Origin Forme)"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/cresselia.png",
+        "nombre": "Cresselia"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/phione.png",
+        "nombre": "Phione"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/manaphy.png",
+        "nombre": "Manaphy"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/darkrai.png",
+        "nombre": "Darkrai"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/shaymin-land.png",
+        "nombre": "Shaymin (Land Forme)"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/shaymin-sky.png",
+        "nombre": "Shaymin (Sky Forme)"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/arceus.png",
+        "nombre": "Arceus"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/victini.png",
+        "nombre": "Victini"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/snivy.png",
+        "nombre": "Snivy"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/servine.png",
+        "nombre": "Servine"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/serperior.png",
+        "nombre": "Serperior"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/tepig.png",
+        "nombre": "Tepig"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/pignite.png",
+        "nombre": "Pignite"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/emboar.png",
+        "nombre": "Emboar"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/oshawott.png",
+        "nombre": "Oshawott"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/dewott.png",
+        "nombre": "Dewott"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/samurott.png",
+        "nombre": "Samurott"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/scarlet-violet/icon/samurott-hisuian.png",
+        "nombre": "Samurott (Hisuian Samurott)"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/patrat.png",
+        "nombre": "Patrat"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/watchog.png",
+        "nombre": "Watchog"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/lillipup.png",
+        "nombre": "Lillipup"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/herdier.png",
+        "nombre": "Herdier"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/stoutland.png",
+        "nombre": "Stoutland"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/purrloin.png",
+        "nombre": "Purrloin"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/liepard.png",
+        "nombre": "Liepard"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/pansage.png",
+        "nombre": "Pansage"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/simisage.png",
+        "nombre": "Simisage"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/pansear.png",
+        "nombre": "Pansear"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/simisear.png",
+        "nombre": "Simisear"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/panpour.png",
+        "nombre": "Panpour"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/simipour.png",
+        "nombre": "Simipour"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/munna.png",
+        "nombre": "Munna"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/musharna.png",
+        "nombre": "Musharna"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/pidove.png",
+        "nombre": "Pidove"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/tranquill.png",
+        "nombre": "Tranquill"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/unfezant.png",
+        "nombre": "Unfezant"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/blitzle.png",
+        "nombre": "Blitzle"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/zebstrika.png",
+        "nombre": "Zebstrika"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/roggenrola.png",
+        "nombre": "Roggenrola"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/boldore.png",
+        "nombre": "Boldore"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/gigalith.png",
+        "nombre": "Gigalith"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/woobat.png",
+        "nombre": "Woobat"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/swoobat.png",
+        "nombre": "Swoobat"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/drilbur.png",
+        "nombre": "Drilbur"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/excadrill.png",
+        "nombre": "Excadrill"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/audino.png",
+        "nombre": "Audino"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/audino-mega.png",
+        "nombre": "Mega Audino"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/timburr.png",
+        "nombre": "Timburr"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/gurdurr.png",
+        "nombre": "Gurdurr"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/conkeldurr.png",
+        "nombre": "Conkeldurr"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/tympole.png",
+        "nombre": "Tympole"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/palpitoad.png",
+        "nombre": "Palpitoad"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/seismitoad.png",
+        "nombre": "Seismitoad"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/throh.png",
+        "nombre": "Throh"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/sawk.png",
+        "nombre": "Sawk"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/sewaddle.png",
+        "nombre": "Sewaddle"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/swadloon.png",
+        "nombre": "Swadloon"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/leavanny.png",
+        "nombre": "Leavanny"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/venipede.png",
+        "nombre": "Venipede"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/whirlipede.png",
+        "nombre": "Whirlipede"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/scolipede.png",
+        "nombre": "Scolipede"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/cottonee.png",
+        "nombre": "Cottonee"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/whimsicott.png",
+        "nombre": "Whimsicott"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/petilil.png",
+        "nombre": "Petilil"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/lilligant.png",
+        "nombre": "Lilligant"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/scarlet-violet/icon/lilligant-hisuian.png",
+        "nombre": "Lilligant (Hisuian Lilligant)"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/basculin-red-striped.png",
+        "nombre": "Basculin (Red-Striped Form)"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/basculin-blue-striped.png",
+        "nombre": "Basculin (Blue-Striped Form)"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/scarlet-violet/icon/basculin-white-striped.png",
+        "nombre": "Basculin (White-Striped Form)"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/sandile.png",
+        "nombre": "Sandile"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/krokorok.png",
+        "nombre": "Krokorok"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/krookodile.png",
+        "nombre": "Krookodile"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/darumaka.png",
+        "nombre": "Darumaka"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/darumaka-galarian.png",
+        "nombre": "Galarian Darumaka"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/darmanitan-standard.png",
+        "nombre": "Darmanitan (Standard Mode)"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/darmanitan-zen.png",
+        "nombre": "Darmanitan (Zen Mode)"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/darmanitan-galarian-standard.png",
+        "nombre": "Darmanitan (Galarian Standard Mode)"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/darmanitan-galarian-zen.png",
+        "nombre": "Darmanitan (Galarian Zen Mode)"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/maractus.png",
+        "nombre": "Maractus"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/dwebble.png",
+        "nombre": "Dwebble"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/crustle.png",
+        "nombre": "Crustle"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/scraggy.png",
+        "nombre": "Scraggy"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/scrafty.png",
+        "nombre": "Scrafty"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/sigilyph.png",
+        "nombre": "Sigilyph"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/yamask.png",
+        "nombre": "Yamask"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/yamask-galarian.png",
+        "nombre": "Galarian Yamask"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/cofagrigus.png",
+        "nombre": "Cofagrigus"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/tirtouga.png",
+        "nombre": "Tirtouga"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/carracosta.png",
+        "nombre": "Carracosta"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/archen.png",
+        "nombre": "Archen"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/archeops.png",
+        "nombre": "Archeops"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/trubbish.png",
+        "nombre": "Trubbish"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/garbodor.png",
+        "nombre": "Garbodor"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/zorua.png",
+        "nombre": "Zorua"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/scarlet-violet/icon/zorua-hisuian.png",
+        "nombre": "Zorua (Hisuian Zorua)"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/zoroark.png",
+        "nombre": "Zoroark"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/scarlet-violet/icon/zoroark-hisuian.png",
+        "nombre": "Zoroark (Hisuian Zoroark)"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/minccino.png",
+        "nombre": "Minccino"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/cinccino.png",
+        "nombre": "Cinccino"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/gothita.png",
+        "nombre": "Gothita"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/gothorita.png",
+        "nombre": "Gothorita"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/gothitelle.png",
+        "nombre": "Gothitelle"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/solosis.png",
+        "nombre": "Solosis"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/duosion.png",
+        "nombre": "Duosion"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/reuniclus.png",
+        "nombre": "Reuniclus"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/ducklett.png",
+        "nombre": "Ducklett"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/swanna.png",
+        "nombre": "Swanna"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/vanillite.png",
+        "nombre": "Vanillite"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/vanillish.png",
+        "nombre": "Vanillish"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/vanilluxe.png",
+        "nombre": "Vanilluxe"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/deerling.png",
+        "nombre": "Deerling"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/sawsbuck.png",
+        "nombre": "Sawsbuck"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/emolga.png",
+        "nombre": "Emolga"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/karrablast.png",
+        "nombre": "Karrablast"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/escavalier.png",
+        "nombre": "Escavalier"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/foongus.png",
+        "nombre": "Foongus"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/amoonguss.png",
+        "nombre": "Amoonguss"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/frillish.png",
+        "nombre": "Frillish"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/jellicent.png",
+        "nombre": "Jellicent"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/alomomola.png",
+        "nombre": "Alomomola"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/joltik.png",
+        "nombre": "Joltik"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/galvantula.png",
+        "nombre": "Galvantula"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/ferroseed.png",
+        "nombre": "Ferroseed"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/ferrothorn.png",
+        "nombre": "Ferrothorn"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/klink.png",
+        "nombre": "Klink"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/klang.png",
+        "nombre": "Klang"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/klinklang.png",
+        "nombre": "Klinklang"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/tynamo.png",
+        "nombre": "Tynamo"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/eelektrik.png",
+        "nombre": "Eelektrik"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/eelektross.png",
+        "nombre": "Eelektross"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/elgyem.png",
+        "nombre": "Elgyem"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/beheeyem.png",
+        "nombre": "Beheeyem"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/litwick.png",
+        "nombre": "Litwick"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/lampent.png",
+        "nombre": "Lampent"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/chandelure.png",
+        "nombre": "Chandelure"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/axew.png",
+        "nombre": "Axew"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/fraxure.png",
+        "nombre": "Fraxure"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/haxorus.png",
+        "nombre": "Haxorus"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/cubchoo.png",
+        "nombre": "Cubchoo"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/beartic.png",
+        "nombre": "Beartic"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/cryogonal.png",
+        "nombre": "Cryogonal"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/shelmet.png",
+        "nombre": "Shelmet"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/accelgor.png",
+        "nombre": "Accelgor"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/stunfisk.png",
+        "nombre": "Stunfisk"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/stunfisk-galarian.png",
+        "nombre": "Galarian Stunfisk"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/mienfoo.png",
+        "nombre": "Mienfoo"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/mienshao.png",
+        "nombre": "Mienshao"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/druddigon.png",
+        "nombre": "Druddigon"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/golett.png",
+        "nombre": "Golett"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/golurk.png",
+        "nombre": "Golurk"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/pawniard.png",
+        "nombre": "Pawniard"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/bisharp.png",
+        "nombre": "Bisharp"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/bouffalant.png",
+        "nombre": "Bouffalant"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/rufflet.png",
+        "nombre": "Rufflet"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/braviary.png",
+        "nombre": "Braviary"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/scarlet-violet/icon/braviary-hisuian.png",
+        "nombre": "Braviary (Hisuian Braviary)"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/vullaby.png",
+        "nombre": "Vullaby"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/mandibuzz.png",
+        "nombre": "Mandibuzz"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/heatmor.png",
+        "nombre": "Heatmor"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/durant.png",
+        "nombre": "Durant"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/deino.png",
+        "nombre": "Deino"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/zweilous.png",
+        "nombre": "Zweilous"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/hydreigon.png",
+        "nombre": "Hydreigon"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/larvesta.png",
+        "nombre": "Larvesta"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/volcarona.png",
+        "nombre": "Volcarona"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/cobalion.png",
+        "nombre": "Cobalion"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/terrakion.png",
+        "nombre": "Terrakion"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/virizion.png",
+        "nombre": "Virizion"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/tornadus-incarnate.png",
+        "nombre": "Tornadus (Incarnate Forme)"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/tornadus-therian.png",
+        "nombre": "Tornadus (Therian Forme)"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/thundurus-incarnate.png",
+        "nombre": "Thundurus (Incarnate Forme)"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/thundurus-therian.png",
+        "nombre": "Thundurus (Therian Forme)"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/reshiram.png",
+        "nombre": "Reshiram"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/zekrom.png",
+        "nombre": "Zekrom"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/landorus-incarnate.png",
+        "nombre": "Landorus (Incarnate Forme)"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/landorus-therian.png",
+        "nombre": "Landorus (Therian Forme)"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/kyurem.png",
+        "nombre": "Kyurem"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/kyurem-white.png",
+        "nombre": "Kyurem (White Kyurem)"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/kyurem-black.png",
+        "nombre": "Kyurem (Black Kyurem)"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/keldeo-ordinary.png",
+        "nombre": "Keldeo (Ordinary Form)"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/keldeo-resolute.png",
+        "nombre": "Keldeo (Resolute Form)"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/meloetta-aria.png",
+        "nombre": "Meloetta (Aria Forme)"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/meloetta-pirouette.png",
+        "nombre": "Meloetta (Pirouette Forme)"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/genesect.png",
+        "nombre": "Genesect"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/chespin.png",
+        "nombre": "Chespin"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/quilladin.png",
+        "nombre": "Quilladin"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/chesnaught.png",
+        "nombre": "Chesnaught"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/fennekin.png",
+        "nombre": "Fennekin"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/braixen.png",
+        "nombre": "Braixen"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/delphox.png",
+        "nombre": "Delphox"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/froakie.png",
+        "nombre": "Froakie"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/frogadier.png",
+        "nombre": "Frogadier"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/greninja.png",
+        "nombre": "Greninja"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/greninja-ash.png",
+        "nombre": "Greninja (Ash-Greninja)"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/bunnelby.png",
+        "nombre": "Bunnelby"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/diggersby.png",
+        "nombre": "Diggersby"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/fletchling.png",
+        "nombre": "Fletchling"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/fletchinder.png",
+        "nombre": "Fletchinder"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/talonflame.png",
+        "nombre": "Talonflame"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/scatterbug.png",
+        "nombre": "Scatterbug"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/spewpa.png",
+        "nombre": "Spewpa"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/vivillon.png",
+        "nombre": "Vivillon"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/litleo.png",
+        "nombre": "Litleo"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/pyroar.png",
+        "nombre": "Pyroar"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/flabebe.png",
+        "nombre": "Flab\u00e9b\u00e9"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/floette.png",
+        "nombre": "Floette"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/florges.png",
+        "nombre": "Florges"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/skiddo.png",
+        "nombre": "Skiddo"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/gogoat.png",
+        "nombre": "Gogoat"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/pancham.png",
+        "nombre": "Pancham"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/pangoro.png",
+        "nombre": "Pangoro"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/furfrou.png",
+        "nombre": "Furfrou"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/espurr.png",
+        "nombre": "Espurr"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/meowstic-male.png",
+        "nombre": "Meowstic (Male)"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/meowstic-female.png",
+        "nombre": "Meowstic (Female)"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/honedge.png",
+        "nombre": "Honedge"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/doublade.png",
+        "nombre": "Doublade"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/aegislash-shield.png",
+        "nombre": "Aegislash (Shield Forme)"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/aegislash-blade.png",
+        "nombre": "Aegislash (Blade Forme)"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/spritzee.png",
+        "nombre": "Spritzee"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/aromatisse.png",
+        "nombre": "Aromatisse"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/swirlix.png",
+        "nombre": "Swirlix"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/slurpuff.png",
+        "nombre": "Slurpuff"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/inkay.png",
+        "nombre": "Inkay"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/malamar.png",
+        "nombre": "Malamar"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/binacle.png",
+        "nombre": "Binacle"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/barbaracle.png",
+        "nombre": "Barbaracle"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/skrelp.png",
+        "nombre": "Skrelp"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/dragalge.png",
+        "nombre": "Dragalge"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/clauncher.png",
+        "nombre": "Clauncher"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/clawitzer.png",
+        "nombre": "Clawitzer"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/helioptile.png",
+        "nombre": "Helioptile"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/heliolisk.png",
+        "nombre": "Heliolisk"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/tyrunt.png",
+        "nombre": "Tyrunt"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/tyrantrum.png",
+        "nombre": "Tyrantrum"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/amaura.png",
+        "nombre": "Amaura"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/aurorus.png",
+        "nombre": "Aurorus"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/sylveon.png",
+        "nombre": "Sylveon"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/hawlucha.png",
+        "nombre": "Hawlucha"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/dedenne.png",
+        "nombre": "Dedenne"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/carbink.png",
+        "nombre": "Carbink"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/goomy.png",
+        "nombre": "Goomy"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/sliggoo.png",
+        "nombre": "Sliggoo"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/scarlet-violet/icon/sliggoo-hisuian.png",
+        "nombre": "Sliggoo (Hisuian Sliggoo)"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/goodra.png",
+        "nombre": "Goodra"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/scarlet-violet/icon/goodra-hisuian.png",
+        "nombre": "Goodra (Hisuian Goodra)"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/klefki.png",
+        "nombre": "Klefki"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/phantump.png",
+        "nombre": "Phantump"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/trevenant.png",
+        "nombre": "Trevenant"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/pumpkaboo-average.png",
+        "nombre": "Pumpkaboo (Average Size)"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/pumpkaboo-small.png",
+        "nombre": "Pumpkaboo (Small Size)"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/pumpkaboo-large.png",
+        "nombre": "Pumpkaboo (Large Size)"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/pumpkaboo-super.png",
+        "nombre": "Pumpkaboo (Super Size)"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/gourgeist-average.png",
+        "nombre": "Gourgeist (Average Size)"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/gourgeist-small.png",
+        "nombre": "Gourgeist (Small Size)"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/gourgeist-large.png",
+        "nombre": "Gourgeist (Large Size)"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/gourgeist-super.png",
+        "nombre": "Gourgeist (Super Size)"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/bergmite.png",
+        "nombre": "Bergmite"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/avalugg.png",
+        "nombre": "Avalugg"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/scarlet-violet/icon/avalugg-hisuian.png",
+        "nombre": "Avalugg (Hisuian Avalugg)"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/noibat.png",
+        "nombre": "Noibat"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/noivern.png",
+        "nombre": "Noivern"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/xerneas.png",
+        "nombre": "Xerneas"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/yveltal.png",
+        "nombre": "Yveltal"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/zygarde-50.png",
+        "nombre": "Zygarde (50% Forme)"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/zygarde-10.png",
+        "nombre": "Zygarde (10% Forme)"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/zygarde-complete.png",
+        "nombre": "Zygarde (Complete Forme)"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/diancie.png",
+        "nombre": "Diancie"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/diancie-mega.png",
+        "nombre": "Mega Diancie"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/hoopa-confined.png",
+        "nombre": "Hoopa (Hoopa Confined)"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/hoopa-unbound.png",
+        "nombre": "Hoopa (Hoopa Unbound)"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/volcanion.png",
+        "nombre": "Volcanion"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/rowlet.png",
+        "nombre": "Rowlet"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/dartrix.png",
+        "nombre": "Dartrix"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/decidueye.png",
+        "nombre": "Decidueye"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/scarlet-violet/icon/decidueye-hisuian.png",
+        "nombre": "Decidueye (Hisuian Decidueye)"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/litten.png",
+        "nombre": "Litten"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/torracat.png",
+        "nombre": "Torracat"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/incineroar.png",
+        "nombre": "Incineroar"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/popplio.png",
+        "nombre": "Popplio"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/brionne.png",
+        "nombre": "Brionne"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/primarina.png",
+        "nombre": "Primarina"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/pikipek.png",
+        "nombre": "Pikipek"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/trumbeak.png",
+        "nombre": "Trumbeak"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/toucannon.png",
+        "nombre": "Toucannon"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/yungoos.png",
+        "nombre": "Yungoos"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/gumshoos.png",
+        "nombre": "Gumshoos"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/grubbin.png",
+        "nombre": "Grubbin"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/charjabug.png",
+        "nombre": "Charjabug"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/vikavolt.png",
+        "nombre": "Vikavolt"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/crabrawler.png",
+        "nombre": "Crabrawler"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/crabominable.png",
+        "nombre": "Crabominable"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/oricorio-baile.png",
+        "nombre": "Oricorio (Baile Style)"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/oricorio-pom-pom.png",
+        "nombre": "Oricorio (Pom-Pom Style)"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/oricorio-pau.png",
+        "nombre": "Oricorio (Pa'u Style)"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/oricorio-sensu.png",
+        "nombre": "Oricorio (Sensu Style)"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/cutiefly.png",
+        "nombre": "Cutiefly"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/ribombee.png",
+        "nombre": "Ribombee"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/rockruff.png",
+        "nombre": "Rockruff"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/rockruff-own-tempo.png",
+        "nombre": "Rockruff (Own Tempo Rockruff)"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/lycanroc-midday.png",
+        "nombre": "Lycanroc (Midday Form)"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/lycanroc-midnight.png",
+        "nombre": "Lycanroc (Midnight Form)"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/lycanroc-dusk.png",
+        "nombre": "Lycanroc (Dusk Form)"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/wishiwashi-solo.png",
+        "nombre": "Wishiwashi (Solo Form)"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/wishiwashi-school.png",
+        "nombre": "Wishiwashi (School Form)"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/mareanie.png",
+        "nombre": "Mareanie"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/toxapex.png",
+        "nombre": "Toxapex"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/mudbray.png",
+        "nombre": "Mudbray"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/mudsdale.png",
+        "nombre": "Mudsdale"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/dewpider.png",
+        "nombre": "Dewpider"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/araquanid.png",
+        "nombre": "Araquanid"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/fomantis.png",
+        "nombre": "Fomantis"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/lurantis.png",
+        "nombre": "Lurantis"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/morelull.png",
+        "nombre": "Morelull"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/shiinotic.png",
+        "nombre": "Shiinotic"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/salandit.png",
+        "nombre": "Salandit"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/salazzle.png",
+        "nombre": "Salazzle"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/stufful.png",
+        "nombre": "Stufful"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/bewear.png",
+        "nombre": "Bewear"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/bounsweet.png",
+        "nombre": "Bounsweet"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/steenee.png",
+        "nombre": "Steenee"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/tsareena.png",
+        "nombre": "Tsareena"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/comfey.png",
+        "nombre": "Comfey"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/oranguru.png",
+        "nombre": "Oranguru"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/passimian.png",
+        "nombre": "Passimian"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/wimpod.png",
+        "nombre": "Wimpod"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/golisopod.png",
+        "nombre": "Golisopod"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/sandygast.png",
+        "nombre": "Sandygast"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/palossand.png",
+        "nombre": "Palossand"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/pyukumuku.png",
+        "nombre": "Pyukumuku"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/type-null.png",
+        "nombre": "Type: Null"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/silvally.png",
+        "nombre": "Silvally"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/minior-meteor.png",
+        "nombre": "Minior (Meteor Form)"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/minior-core.png",
+        "nombre": "Minior (Core Form)"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/komala.png",
+        "nombre": "Komala"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/turtonator.png",
+        "nombre": "Turtonator"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/togedemaru.png",
+        "nombre": "Togedemaru"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/mimikyu.png",
+        "nombre": "Mimikyu"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/bruxish.png",
+        "nombre": "Bruxish"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/drampa.png",
+        "nombre": "Drampa"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/dhelmise.png",
+        "nombre": "Dhelmise"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/jangmo-o.png",
+        "nombre": "Jangmo-o"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/hakamo-o.png",
+        "nombre": "Hakamo-o"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/kommo-o.png",
+        "nombre": "Kommo-o"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/tapu-koko.png",
+        "nombre": "Tapu Koko"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/tapu-lele.png",
+        "nombre": "Tapu Lele"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/tapu-bulu.png",
+        "nombre": "Tapu Bulu"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/tapu-fini.png",
+        "nombre": "Tapu Fini"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/cosmog.png",
+        "nombre": "Cosmog"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/cosmoem.png",
+        "nombre": "Cosmoem"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/solgaleo.png",
+        "nombre": "Solgaleo"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/lunala.png",
+        "nombre": "Lunala"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/nihilego.png",
+        "nombre": "Nihilego"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/buzzwole.png",
+        "nombre": "Buzzwole"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/pheromosa.png",
+        "nombre": "Pheromosa"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/xurkitree.png",
+        "nombre": "Xurkitree"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/celesteela.png",
+        "nombre": "Celesteela"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/kartana.png",
+        "nombre": "Kartana"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/guzzlord.png",
+        "nombre": "Guzzlord"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/necrozma.png",
+        "nombre": "Necrozma"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/necrozma-dusk-mane.png",
+        "nombre": "Necrozma (Dusk Mane Necrozma)"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/necrozma-dawn-wings.png",
+        "nombre": "Necrozma (Dawn Wings Necrozma)"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/necrozma-ultra.png",
+        "nombre": "Necrozma (Ultra Necrozma)"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/magearna.png",
+        "nombre": "Magearna"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/marshadow.png",
+        "nombre": "Marshadow"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/poipole.png",
+        "nombre": "Poipole"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/naganadel.png",
+        "nombre": "Naganadel"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/stakataka.png",
+        "nombre": "Stakataka"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/blacephalon.png",
+        "nombre": "Blacephalon"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/zeraora.png",
+        "nombre": "Zeraora"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/meltan.png",
+        "nombre": "Meltan"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/melmetal.png",
+        "nombre": "Melmetal"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/grookey.png",
+        "nombre": "Grookey"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/thwackey.png",
+        "nombre": "Thwackey"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/rillaboom.png",
+        "nombre": "Rillaboom"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/scorbunny.png",
+        "nombre": "Scorbunny"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/raboot.png",
+        "nombre": "Raboot"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/cinderace.png",
+        "nombre": "Cinderace"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/sobble.png",
+        "nombre": "Sobble"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/drizzile.png",
+        "nombre": "Drizzile"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/inteleon.png",
+        "nombre": "Inteleon"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/skwovet.png",
+        "nombre": "Skwovet"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/greedent.png",
+        "nombre": "Greedent"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/rookidee.png",
+        "nombre": "Rookidee"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/corvisquire.png",
+        "nombre": "Corvisquire"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/corviknight.png",
+        "nombre": "Corviknight"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/blipbug.png",
+        "nombre": "Blipbug"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/dottler.png",
+        "nombre": "Dottler"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/orbeetle.png",
+        "nombre": "Orbeetle"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/nickit.png",
+        "nombre": "Nickit"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/thievul.png",
+        "nombre": "Thievul"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/gossifleur.png",
+        "nombre": "Gossifleur"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/eldegoss.png",
+        "nombre": "Eldegoss"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/wooloo.png",
+        "nombre": "Wooloo"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/dubwool.png",
+        "nombre": "Dubwool"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/chewtle.png",
+        "nombre": "Chewtle"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/drednaw.png",
+        "nombre": "Drednaw"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/yamper.png",
+        "nombre": "Yamper"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/boltund.png",
+        "nombre": "Boltund"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/rolycoly.png",
+        "nombre": "Rolycoly"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/carkol.png",
+        "nombre": "Carkol"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/coalossal.png",
+        "nombre": "Coalossal"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/applin.png",
+        "nombre": "Applin"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/flapple.png",
+        "nombre": "Flapple"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/appletun.png",
+        "nombre": "Appletun"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/silicobra.png",
+        "nombre": "Silicobra"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/sandaconda.png",
+        "nombre": "Sandaconda"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/cramorant.png",
+        "nombre": "Cramorant"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/arrokuda.png",
+        "nombre": "Arrokuda"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/barraskewda.png",
+        "nombre": "Barraskewda"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/toxel.png",
+        "nombre": "Toxel"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/toxtricity-amped.png",
+        "nombre": "Toxtricity (Amped Form)"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/toxtricity-low-key.png",
+        "nombre": "Toxtricity (Low Key Form)"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/sizzlipede.png",
+        "nombre": "Sizzlipede"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/centiskorch.png",
+        "nombre": "Centiskorch"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/clobbopus.png",
+        "nombre": "Clobbopus"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/grapploct.png",
+        "nombre": "Grapploct"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/sinistea.png",
+        "nombre": "Sinistea"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/polteageist.png",
+        "nombre": "Polteageist"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/hatenna.png",
+        "nombre": "Hatenna"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/hattrem.png",
+        "nombre": "Hattrem"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/hatterene.png",
+        "nombre": "Hatterene"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/impidimp.png",
+        "nombre": "Impidimp"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/morgrem.png",
+        "nombre": "Morgrem"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/grimmsnarl.png",
+        "nombre": "Grimmsnarl"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/obstagoon.png",
+        "nombre": "Obstagoon"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/perrserker.png",
+        "nombre": "Perrserker"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/cursola.png",
+        "nombre": "Cursola"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/sirfetchd.png",
+        "nombre": "Sirfetch'd"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/mr-rime.png",
+        "nombre": "Mr. Rime"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/runerigus.png",
+        "nombre": "Runerigus"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/milcery.png",
+        "nombre": "Milcery"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/alcremie.png",
+        "nombre": "Alcremie"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/falinks.png",
+        "nombre": "Falinks"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/pincurchin.png",
+        "nombre": "Pincurchin"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/snom.png",
+        "nombre": "Snom"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/frosmoth.png",
+        "nombre": "Frosmoth"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/stonjourner.png",
+        "nombre": "Stonjourner"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/eiscue-ice.png",
+        "nombre": "Eiscue (Ice Face)"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/eiscue-noice.png",
+        "nombre": "Eiscue (Noice Face)"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/indeedee-male.png",
+        "nombre": "Indeedee (Male)"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/indeedee-female.png",
+        "nombre": "Indeedee (Female)"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/morpeko-full-belly.png",
+        "nombre": "Morpeko (Full Belly Mode)"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/morpeko-hangry.png",
+        "nombre": "Morpeko (Hangry Mode)"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/cufant.png",
+        "nombre": "Cufant"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/copperajah.png",
+        "nombre": "Copperajah"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/dracozolt.png",
+        "nombre": "Dracozolt"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/arctozolt.png",
+        "nombre": "Arctozolt"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/dracovish.png",
+        "nombre": "Dracovish"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/arctovish.png",
+        "nombre": "Arctovish"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/duraludon.png",
+        "nombre": "Duraludon"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/dreepy.png",
+        "nombre": "Dreepy"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/drakloak.png",
+        "nombre": "Drakloak"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/dragapult.png",
+        "nombre": "Dragapult"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/zacian-hero.png",
+        "nombre": "Zacian (Hero of Many Battles)"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/zacian-crowned.png",
+        "nombre": "Zacian (Crowned Sword)"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/zamazenta-hero.png",
+        "nombre": "Zamazenta (Hero of Many Battles)"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/zamazenta-crowned.png",
+        "nombre": "Zamazenta (Crowned Shield)"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/eternatus.png",
+        "nombre": "Eternatus"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/eternatus-eternamax.png",
+        "nombre": "Eternatus (Eternamax)"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/kubfu.png",
+        "nombre": "Kubfu"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/urshifu-single-strike.png",
+        "nombre": "Urshifu (Single Strike Style)"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/urshifu-rapid-strike.png",
+        "nombre": "Urshifu (Rapid Strike Style)"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/zarude.png",
+        "nombre": "Zarude"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/regieleki.png",
+        "nombre": "Regieleki"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/regidrago.png",
+        "nombre": "Regidrago"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/glastrier.png",
+        "nombre": "Glastrier"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/spectrier.png",
+        "nombre": "Spectrier"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/calyrex.png",
+        "nombre": "Calyrex"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/calyrex-ice-rider.png",
+        "nombre": "Calyrex (Ice Rider)"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/sword-shield/icon/calyrex-shadow-rider.png",
+        "nombre": "Calyrex (Shadow Rider)"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/scarlet-violet/icon/wyrdeer.png",
+        "nombre": "Wyrdeer"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/scarlet-violet/icon/kleavor.png",
+        "nombre": "Kleavor"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/scarlet-violet/icon/ursaluna.png",
+        "nombre": "Ursaluna"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/scarlet-violet/icon/basculegion-male.png",
+        "nombre": "Basculegion (Male)"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/scarlet-violet/icon/basculegion-female.png",
+        "nombre": "Basculegion (Female)"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/scarlet-violet/icon/sneasler.png",
+        "nombre": "Sneasler"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/scarlet-violet/icon/overqwil.png",
+        "nombre": "Overqwil"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/scarlet-violet/icon/enamorus-incarnate.png",
+        "nombre": "Enamorus (Incarnate Forme)"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/scarlet-violet/icon/enamorus-therian.png",
+        "nombre": "Enamorus (Therian Forme)"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/scarlet-violet/icon/sprigatito.png",
+        "nombre": "Sprigatito"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/scarlet-violet/icon/floragato.png",
+        "nombre": "Floragato"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/scarlet-violet/icon/meowscarada.png",
+        "nombre": "Meowscarada"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/scarlet-violet/icon/fuecoco.png",
+        "nombre": "Fuecoco"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/scarlet-violet/icon/crocalor.png",
+        "nombre": "Crocalor"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/scarlet-violet/icon/skeledirge.png",
+        "nombre": "Skeledirge"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/scarlet-violet/icon/quaxly.png",
+        "nombre": "Quaxly"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/scarlet-violet/icon/quaxwell.png",
+        "nombre": "Quaxwell"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/scarlet-violet/icon/quaquaval.png",
+        "nombre": "Quaquaval"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/scarlet-violet/icon/lechonk.png",
+        "nombre": "Lechonk"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/scarlet-violet/icon/oinkologne-male.png",
+        "nombre": "Oinkologne (Male)"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/scarlet-violet/icon/oinkologne-female.png",
+        "nombre": "Oinkologne (Female)"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/scarlet-violet/icon/tarountula.png",
+        "nombre": "Tarountula"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/scarlet-violet/icon/spidops.png",
+        "nombre": "Spidops"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/scarlet-violet/icon/nymble.png",
+        "nombre": "Nymble"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/scarlet-violet/icon/lokix.png",
+        "nombre": "Lokix"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/scarlet-violet/icon/pawmi.png",
+        "nombre": "Pawmi"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/scarlet-violet/icon/pawmo.png",
+        "nombre": "Pawmo"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/scarlet-violet/icon/pawmot.png",
+        "nombre": "Pawmot"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/scarlet-violet/icon/tandemaus.png",
+        "nombre": "Tandemaus"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/scarlet-violet/icon/maushold-family4.png",
+        "nombre": "Maushold (Family of Four)"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/scarlet-violet/icon/maushold-family3.png",
+        "nombre": "Maushold (Family of Three)"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/scarlet-violet/icon/fidough.png",
+        "nombre": "Fidough"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/scarlet-violet/icon/dachsbun.png",
+        "nombre": "Dachsbun"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/scarlet-violet/icon/smoliv.png",
+        "nombre": "Smoliv"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/scarlet-violet/icon/dolliv.png",
+        "nombre": "Dolliv"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/scarlet-violet/icon/arboliva.png",
+        "nombre": "Arboliva"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/scarlet-violet/icon/squawkabilly-green.png",
+        "nombre": "Squawkabilly (Green Plumage)"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/scarlet-violet/icon/squawkabilly-blue.png",
+        "nombre": "Squawkabilly (Blue Plumage)"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/scarlet-violet/icon/squawkabilly-yellow.png",
+        "nombre": "Squawkabilly (Yellow Plumage)"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/scarlet-violet/icon/squawkabilly-white.png",
+        "nombre": "Squawkabilly (White Plumage)"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/scarlet-violet/icon/nacli.png",
+        "nombre": "Nacli"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/scarlet-violet/icon/naclstack.png",
+        "nombre": "Naclstack"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/scarlet-violet/icon/garganacl.png",
+        "nombre": "Garganacl"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/scarlet-violet/icon/charcadet.png",
+        "nombre": "Charcadet"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/scarlet-violet/icon/armarouge.png",
+        "nombre": "Armarouge"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/scarlet-violet/icon/ceruledge.png",
+        "nombre": "Ceruledge"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/scarlet-violet/icon/tadbulb.png",
+        "nombre": "Tadbulb"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/scarlet-violet/icon/bellibolt.png",
+        "nombre": "Bellibolt"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/scarlet-violet/icon/wattrel.png",
+        "nombre": "Wattrel"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/scarlet-violet/icon/kilowattrel.png",
+        "nombre": "Kilowattrel"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/scarlet-violet/icon/maschiff.png",
+        "nombre": "Maschiff"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/scarlet-violet/icon/mabosstiff.png",
+        "nombre": "Mabosstiff"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/scarlet-violet/icon/shroodle.png",
+        "nombre": "Shroodle"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/scarlet-violet/icon/grafaiai.png",
+        "nombre": "Grafaiai"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/scarlet-violet/icon/bramblin.png",
+        "nombre": "Bramblin"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/scarlet-violet/icon/brambleghast.png",
+        "nombre": "Brambleghast"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/scarlet-violet/icon/toedscool.png",
+        "nombre": "Toedscool"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/scarlet-violet/icon/toedscruel.png",
+        "nombre": "Toedscruel"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/scarlet-violet/icon/klawf.png",
+        "nombre": "Klawf"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/scarlet-violet/icon/capsakid.png",
+        "nombre": "Capsakid"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/scarlet-violet/icon/scovillain.png",
+        "nombre": "Scovillain"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/scarlet-violet/icon/rellor.png",
+        "nombre": "Rellor"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/scarlet-violet/icon/rabsca.png",
+        "nombre": "Rabsca"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/scarlet-violet/icon/flittle.png",
+        "nombre": "Flittle"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/scarlet-violet/icon/espathra.png",
+        "nombre": "Espathra"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/scarlet-violet/icon/tinkatink.png",
+        "nombre": "Tinkatink"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/scarlet-violet/icon/tinkatuff.png",
+        "nombre": "Tinkatuff"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/scarlet-violet/icon/tinkaton.png",
+        "nombre": "Tinkaton"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/scarlet-violet/icon/wiglett.png",
+        "nombre": "Wiglett"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/scarlet-violet/icon/wugtrio.png",
+        "nombre": "Wugtrio"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/scarlet-violet/icon/bombirdier.png",
+        "nombre": "Bombirdier"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/scarlet-violet/icon/finizen.png",
+        "nombre": "Finizen"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/scarlet-violet/icon/palafin-zero.png",
+        "nombre": "Palafin (Zero Form)"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/scarlet-violet/icon/palafin-hero.png",
+        "nombre": "Palafin (Hero Form)"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/scarlet-violet/icon/varoom.png",
+        "nombre": "Varoom"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/scarlet-violet/icon/revavroom.png",
+        "nombre": "Revavroom"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/scarlet-violet/icon/cyclizar.png",
+        "nombre": "Cyclizar"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/scarlet-violet/icon/orthworm.png",
+        "nombre": "Orthworm"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/scarlet-violet/icon/glimmet.png",
+        "nombre": "Glimmet"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/scarlet-violet/icon/glimmora.png",
+        "nombre": "Glimmora"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/scarlet-violet/icon/greavard.png",
+        "nombre": "Greavard"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/scarlet-violet/icon/houndstone.png",
+        "nombre": "Houndstone"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/scarlet-violet/icon/flamigo.png",
+        "nombre": "Flamigo"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/scarlet-violet/icon/cetoddle.png",
+        "nombre": "Cetoddle"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/scarlet-violet/icon/cetitan.png",
+        "nombre": "Cetitan"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/scarlet-violet/icon/veluza.png",
+        "nombre": "Veluza"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/scarlet-violet/icon/dondozo.png",
+        "nombre": "Dondozo"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/scarlet-violet/icon/tatsugiri-curly.png",
+        "nombre": "Tatsugiri (Curly Form)"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/scarlet-violet/icon/tatsugiri-droopy.png",
+        "nombre": "Tatsugiri (Droopy Form)"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/scarlet-violet/icon/tatsugiri-stretchy.png",
+        "nombre": "Tatsugiri (Stretchy Form)"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/scarlet-violet/icon/annihilape.png",
+        "nombre": "Annihilape"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/scarlet-violet/icon/clodsire.png",
+        "nombre": "Clodsire"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/scarlet-violet/icon/farigiraf.png",
+        "nombre": "Farigiraf"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/scarlet-violet/icon/dudunsparce-two-segment.png",
+        "nombre": "Dudunsparce (Two-Segment Form)"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/scarlet-violet/icon/dudunsparce-three-segment.png",
+        "nombre": "Dudunsparce (Three-Segment Form)"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/scarlet-violet/icon/kingambit.png",
+        "nombre": "Kingambit"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/scarlet-violet/icon/great-tusk.png",
+        "nombre": "Great Tusk"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/scarlet-violet/icon/scream-tail.png",
+        "nombre": "Scream Tail"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/scarlet-violet/icon/brute-bonnet.png",
+        "nombre": "Brute Bonnet"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/scarlet-violet/icon/flutter-mane.png",
+        "nombre": "Flutter Mane"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/scarlet-violet/icon/slither-wing.png",
+        "nombre": "Slither Wing"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/scarlet-violet/icon/sandy-shocks.png",
+        "nombre": "Sandy Shocks"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/scarlet-violet/icon/iron-treads.png",
+        "nombre": "Iron Treads"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/scarlet-violet/icon/iron-bundle.png",
+        "nombre": "Iron Bundle"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/scarlet-violet/icon/iron-hands.png",
+        "nombre": "Iron Hands"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/scarlet-violet/icon/iron-jugulis.png",
+        "nombre": "Iron Jugulis"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/scarlet-violet/icon/iron-moth.png",
+        "nombre": "Iron Moth"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/scarlet-violet/icon/iron-thorns.png",
+        "nombre": "Iron Thorns"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/scarlet-violet/icon/frigibax.png",
+        "nombre": "Frigibax"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/scarlet-violet/icon/arctibax.png",
+        "nombre": "Arctibax"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/scarlet-violet/icon/baxcalibur.png",
+        "nombre": "Baxcalibur"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/scarlet-violet/icon/gimmighoul-chest.png",
+        "nombre": "Gimmighoul (Chest Form)"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/scarlet-violet/icon/gimmighoul-roaming.png",
+        "nombre": "Gimmighoul (Roaming Form)"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/scarlet-violet/icon/gholdengo.png",
+        "nombre": "Gholdengo"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/scarlet-violet/icon/wo-chien.png",
+        "nombre": "Wo-Chien"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/scarlet-violet/icon/chien-pao.png",
+        "nombre": "Chien-Pao"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/scarlet-violet/icon/ting-lu.png",
+        "nombre": "Ting-Lu"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/scarlet-violet/icon/chi-yu.png",
+        "nombre": "Chi-Yu"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/scarlet-violet/icon/roaring-moon.png",
+        "nombre": "Roaring Moon"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/scarlet-violet/icon/iron-valiant.png",
+        "nombre": "Iron Valiant"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/scarlet-violet/icon/koraidon.png",
+        "nombre": "Koraidon"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/scarlet-violet/icon/miraidon.png",
+        "nombre": "Miraidon"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/scarlet-violet/icon/walking-wake.png",
+        "nombre": "Walking Wake"
+    },
+    {
+        "url_img": "https://img.pokemondb.net/sprites/scarlet-violet/icon/iron-leaves.png",
+        "nombre": "Iron Leaves"
+    }
+]
