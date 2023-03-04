@@ -7,7 +7,7 @@ import plotly.express as px
 import matplotlib.pyplot as plt
 
 # URL con la lista de pokemones
-URL = 'https://raw.githubusercontent.com/DWES-LE/streamlit-2---cuadro-de-mandos-personal-DiegoTejadaOrea/main/datos_pokemon_unidos.csv'
+URL = 'https://raw.githubusercontent.com/DWES-LE/streamlit-2---cuadro-de-mandos-personal-DiegoTejadaOrea/main/datos_pokemon_actualizados.csv'
 
 # ============ generation Y CARGA DE DATOS ====================
 
@@ -76,42 +76,87 @@ preferencia = st.sidebar.selectbox("Selecciona tu preferencia de gusto", ["Entom
 
 def obtener_tipo(preferencia):
     if preferencia == "Entomología":
-        return df[df["Type"] == "Bug"]
+        return df[df["Type 1"] == "Bug"]
     elif preferencia == "Noche":
-        return df[df["Type"] == "Dark"]
+        return df[df["Type 1"] == "Dark"]
     elif preferencia == "Mitologia":
-        return df[df["Type"] == "Dragon"]
+        return df[df["Type 1"] == "Dragon"]
     elif preferencia == "Mecanica":
-        return df[df["Type"] == "Electric"]
+        return df[df["Type 1"] == "Electric"]
     elif preferencia == "Fantasia":
-        return df[df["Type"] == "Fairy"]
+        return df[df["Type 1"] == "Fairy"]
     elif preferencia == "Deporte":
-        return df[df["Type"] == "Fighting"]
+        return df[df["Type 1"] == "Fighting"]
     elif preferencia == "Caos":
-        return df[df["Type"] == "Fire"]
+        return df[df["Type 1"] == "Fire"]
     elif preferencia == "Pjaros":
-        return df[df["Type"] == "Flying"]
+        return df[df["Type 1"] == "Flying"]
     elif preferencia == "Fantasmas":
-        return df[df["Type"] == "Ghost"]
+        return df[df["Type 1"] == "Ghost"]
     elif preferencia == "Naturaleza":
-        return df[df["Type"] == "Grass"]
+        return df[df["Type 1"] == "Grass"]
     elif preferencia == "Tierra":
-        return df[df["Type"] == "Ground"]
+        return df[df["Type 1"] == "Ground"]
     elif preferencia == "Nieve":
-        return df[df["Type"] == "Ice"]
+        return df[df["Type 1"] == "Ice"]
     elif preferencia == "Normal":
-        return df[df["Type"] == "Normal"]
+        return df[df["Type 1"] == "Normal"]
     elif preferencia == "Venom":
-        return df[df["Type"] == "Poison"]
+        return df[df["Type 1"] == "Poison"]
     elif preferencia == "Musica":
-        return df[df["Type"] == "Psychic"]
+        return df[df["Type 1"] == "Psychic"]
     elif preferencia == "Geologia":
-        return df[df["Type"] == "Rock"]
+        return df[df["Type 1"] == "Rock"]
     elif preferencia == "Nadar":
-        return df[df["Type"] == "Water"]
+        return df[df["Type 1"] == "Water"]
     else:
-        return df[df["Type"] == "Steel"]
+        return df[df["Type 1"] == "Steel"]
 
 
 preferencia = obtener_tipo(preferencia)
+st.dataframe(preferencia)
+
+# ============================================================================
+
+
+# ============= TIPO DE POKEMON EN BASE A TU ESTADO FISICO =======================
+st.sidebar.title('Selecciona tu estado fisico')
+estado_fisico = st.sidebar.selectbox("Selecciona tu estado fisico", [
+                                     "Muy bueno", "Bueno", "Regular", "Malo"])
+
+
+def obtener_estado_fisico(estado_fisico):
+    if estado_fisico == "Muy bueno":
+        return df[(df["HP"] >= 150) & (df["HP"] <= 200)]
+    elif estado_fisico == "Bueno":
+        return df[(df["HP"] >= 100) & (df["HP"] <= 150)]
+    elif estado_fisico == "Regular":
+        return df[(df["HP"] >= 50) & (df["HP"] <= 100)]
+    else:
+        return df[(df["HP"] >= 0) & (df["HP"] <= 50)]
+
+
+estado_fisico = obtener_estado_fisico(estado_fisico)
+st.dataframe(estado_fisico)
+
+# ============================================================================
+
+# Crear un menú desplegable para seleccionar entre "atacar" o "defenderse"
+st.sidebar.title("¿Qué se te da mejor, atacar o defenderte?")
+preferencia = st.sidebar.selectbox("¿Qué se te da mejor?", [
+    "Atacar", "Defenderse", "Ninguna de las dos"])
+
+# Filtrar los datos según la preferencia seleccionada por el usuario
+
+
+def obtener_pelea(preferencia):
+    if preferencia == "Atacar":
+        return df[df["Attack"] >= df["Defense"]]
+    elif preferencia == "Defenderse":
+        return df[df["Defense"] >= df["Attack"]]
+    else:
+        return df
+
+
+preferencia = obtener_pelea(preferencia)
 st.dataframe(preferencia)
