@@ -62,7 +62,6 @@ st.sidebar.write('Tu generación es la: ' +
 
 generacion = obtener_generacion(edad)
 
-st.dataframe(generacion)
 
 # ============================================================================
 
@@ -114,7 +113,7 @@ def obtener_tipo(preferencia):
 
 
 preferencia = obtener_tipo(preferencia)
-st.dataframe(preferencia)
+
 
 # ============================================================================
 
@@ -137,7 +136,10 @@ def obtener_estado_fisico(estado_fisico):
 
 
 estado_fisico = obtener_estado_fisico(estado_fisico)
-st.dataframe(estado_fisico)
+
+
+# ============================================================================
+
 
 # ============================================================================
 
@@ -159,4 +161,27 @@ def obtener_pelea(preferencia):
 
 
 preferencia = obtener_pelea(preferencia)
-st.dataframe(preferencia)
+
+
+# ============================================================================
+
+# ============================================================================
+
+# Crear un slider en el sidebar para seleccionar un rango de velocidad
+velocidad_min, velocidad_max = st.sidebar.slider(
+    "¿Como de veloz crees que eres en %?", 0, 200, (80, 120))
+# Filtrar los datos según el rango de velocidad seleccionado por el usuario
+velocidad = df[(df["Speed"] >= velocidad_min) &
+               (df["Speed"] <= velocidad_max)]
+
+
+# ============================================================================
+
+
+# ========================FUSION DE FILTROS=========================
+
+# Filtrar los datos según los filtros seleccionados por el usuario
+df_filtrado_total = generacion.merge(preferencia).merge(
+    estado_fisico).merge(preferencia).merge(velocidad)
+
+st.dataframe(df_filtrado_total)
