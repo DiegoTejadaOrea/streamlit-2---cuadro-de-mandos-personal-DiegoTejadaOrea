@@ -5,6 +5,8 @@ import streamlit as st
 import requests
 import plotly.express as px
 import matplotlib.pyplot as plt
+import base64
+from PIL import Image
 
 # URL con la lista de pokemones
 URL = 'https://raw.githubusercontent.com/DWES-LE/streamlit-2---cuadro-de-mandos-personal-DiegoTejadaOrea/main/datos_pokemon_actualizados.csv'
@@ -61,7 +63,7 @@ st.sidebar.write('Tu generación es la: ' +
                  str(obtener_generacion(edad).generation.unique()[0]))
 
 generacion = obtener_generacion(edad)
-
+st.write(generacion)
 
 # ============================================================================
 
@@ -114,58 +116,56 @@ def obtener_tipo(preferencia):
 
 preferencia = obtener_tipo(preferencia)
 
-
 # ============================================================================
 
 
 # ============= TIPO DE POKEMON EN BASE A TU ESTADO FISICO =======================
 st.sidebar.title('Selecciona tu estado fisico')
 estado_fisico = st.sidebar.selectbox("Selecciona tu estado fisico", [
-                                     "Muy bueno", "Bueno", "Regular", "Malo"])
+                                     "Muy bueno (Super atleta)", "Bueno (Deportista)", "Regular (Promedio)", "Malo (Nefasto)"])
 
 
 def obtener_estado_fisico(estado_fisico):
     if estado_fisico == "Muy bueno":
-        return df[(df["HP"] >= 150) & (df["HP"] <= 200)]
+        return df[(df["HP"] >= 180) & (df["HP"] <= 200)]
     elif estado_fisico == "Bueno":
-        return df[(df["HP"] >= 100) & (df["HP"] <= 150)]
+        return df[(df["HP"] >= 130) & (df["HP"] <= 180)]
     elif estado_fisico == "Regular":
-        return df[(df["HP"] >= 50) & (df["HP"] <= 100)]
+        return df[(df["HP"] >= 50) & (df["HP"] <= 130)]
     else:
         return df[(df["HP"] >= 0) & (df["HP"] <= 50)]
 
 
 estado_fisico = obtener_estado_fisico(estado_fisico)
 
-
 # ============================================================================
 
 
-# ============================================================================
+# ======================FILTRO ATACAR DEFENDER==============================
 
 # Crear un menú desplegable para seleccionar entre "atacar" o "defenderse"
 st.sidebar.title("¿Qué se te da mejor, atacar o defenderte?")
-preferencia = st.sidebar.selectbox("¿Qué se te da mejor?", [
+defensa_personal = st.sidebar.selectbox("¿Qué se te da mejor?", [
     "Atacar", "Defenderse", "Ninguna de las dos"])
 
 # Filtrar los datos según la preferencia seleccionada por el usuario
 
 
-def obtener_pelea(preferencia):
-    if preferencia == "Atacar":
+def obtener_pelea(defensa_personal):
+    if defensa_personal == "Atacar":
         return df[df["Attack"] >= df["Defense"]]
-    elif preferencia == "Defenderse":
+    elif defensa_personal == "Defenderse":
         return df[df["Defense"] >= df["Attack"]]
     else:
         return df
 
 
-preferencia = obtener_pelea(preferencia)
+defensa_personal = obtener_pelea(defensa_personal)
 
 
 # ============================================================================
 
-# ============================================================================
+# ======================FILTRO VELOCIDAD=============================
 
 # Crear un slider en el sidebar para seleccionar un rango de velocidad
 velocidad_min, velocidad_max = st.sidebar.slider(
@@ -181,7 +181,17 @@ velocidad = df[(df["Speed"] >= velocidad_min) &
 # ========================FUSION DE FILTROS=========================
 
 # Filtrar los datos según los filtros seleccionados por el usuario
-df_filtrado_total = generacion.merge(preferencia).merge(
-    estado_fisico).merge(preferencia).merge(velocidad)
+def filtrado_total():
+    return preferencia.merge(velocidad, how="inner").merge(estado_fisico, how="inner").merge(generacion, how="inner").merge(defensa_personal, how="inner")
 
-st.dataframe(df_filtrado_total)
+
+# enseñar campo en especifico de la tabla url_img
+imagen_url = filtrado_total().url_img.iloc[0]
+# st.image(imagen_url, width=400)
+
+# Redimensionar la imagen
+imagen_redimensionada = Image.open(requests.get(
+    imagen_url, stream=True).raw).resize((700, 700))
+# Mostrar la imagen redimensionada
+st.header('Tu pokemon es: ' + str(filtrado_total().nombre.iloc[0]))
+st.image(imagen_redimensionada, caption='Imagen redimensionada')
