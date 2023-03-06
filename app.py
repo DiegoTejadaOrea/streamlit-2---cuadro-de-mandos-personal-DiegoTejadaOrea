@@ -7,6 +7,8 @@ import plotly.express as px
 import matplotlib.pyplot as plt
 import base64
 from PIL import Image
+import numpy as np
+
 
 # URL con la lista de pokemones
 URL = 'https://raw.githubusercontent.com/DWES-LE/streamlit-2---cuadro-de-mandos-personal-DiegoTejadaOrea/main/datos_pokemon_actualizados.csv'
@@ -65,58 +67,57 @@ st.sidebar.write('Tu generación es la: ' +
                  str(obtener_generacion(edad).generation.unique()[0]))
 
 generacion = obtener_generacion(edad)
-
 tabla.write(generacion)
-# st.write(tabla)
 
 
 # ============================================================================
 
 # ============= TIPO DE POKEMON EN BASE A TUS GUSTOS =======================
 st.sidebar.title('Que te define mejor?')
-preferencia = st.sidebar.selectbox("Selecciona tu preferencia de gusto", ["Entomología", "Noche", "Mitologia", "Mecanica", "Fantasia",
-                                                                          "Deporte", "Caos", "Pjaros", "Fantasmas", "Naturaleza",
-                                                                          "Tierra", "Nieve", "Normal", "Venom", "Musica",
-                                                                          "Geologia", "Nadar", "Soldadura"])
+# quiero poder seleccionar el tipo de pokemon que me define mejor, hasta 3 opciones
+preferencia = st.sidebar.multiselect("Selecciona que te define mejor (3 max)", ["Bug", "Dark", "Dragon", "Electric",
+                                                                                "Fairy", "Fighting", "Fire", "Flying", "Ghost", "Grass", "Ground", "Ice", "Normal", "Poison", "Psychic", "Rock", "Steel", "Water"])
 
 
 def obtener_tipo(preferencia):
-    if preferencia == "Entomología":
+    if preferencia == "Bug":
         return df[df["Type 1"] == "Bug"]
-    elif preferencia == "Noche":
+    elif preferencia == "Dark":
         return df[df["Type 1"] == "Dark"]
-    elif preferencia == "Mitologia":
+    elif preferencia == "Dragon":
         return df[df["Type 1"] == "Dragon"]
-    elif preferencia == "Mecanica":
+    elif preferencia == "Electric":
         return df[df["Type 1"] == "Electric"]
-    elif preferencia == "Fantasia":
+    elif preferencia == "Fairy":
         return df[df["Type 1"] == "Fairy"]
-    elif preferencia == "Deporte":
+    elif preferencia == "Fighting":
         return df[df["Type 1"] == "Fighting"]
-    elif preferencia == "Caos":
+    elif preferencia == "Fire":
         return df[df["Type 1"] == "Fire"]
-    elif preferencia == "Pjaros":
+    elif preferencia == "Flying":
         return df[df["Type 1"] == "Flying"]
-    elif preferencia == "Fantasmas":
+    elif preferencia == "Ghost":
         return df[df["Type 1"] == "Ghost"]
-    elif preferencia == "Naturaleza":
+    elif preferencia == "Grass":
         return df[df["Type 1"] == "Grass"]
-    elif preferencia == "Tierra":
+    elif preferencia == "Ground":
         return df[df["Type 1"] == "Ground"]
-    elif preferencia == "Nieve":
+    elif preferencia == "Ice":
         return df[df["Type 1"] == "Ice"]
     elif preferencia == "Normal":
         return df[df["Type 1"] == "Normal"]
-    elif preferencia == "Venom":
+    elif preferencia == "Poison":
         return df[df["Type 1"] == "Poison"]
-    elif preferencia == "Musica":
+    elif preferencia == "Psychic":
         return df[df["Type 1"] == "Psychic"]
-    elif preferencia == "Geologia":
+    elif preferencia == "Rock":
         return df[df["Type 1"] == "Rock"]
-    elif preferencia == "Nadar":
+    elif preferencia == "Steel":
+        return df[df["Type 1"] == "Steel"]
+    elif preferencia == "Water":
         return df[df["Type 1"] == "Water"]
     else:
-        return df[df["Type 1"] == "Steel"]
+        return df
 
 
 preferencia = obtener_tipo(preferencia)
@@ -132,7 +133,7 @@ tabla.write(preferencia)
 # ============= TIPO DE POKEMON EN BASE A TU ESTADO FISICO =======================
 st.sidebar.title('Selecciona tu estado fisico')
 estado_fisico = st.sidebar.selectbox("Selecciona tu estado fisico", [
-                                     "Muy bueno (Super atleta)", "Bueno (Deportista)", "Regular (Promedio)", "Malo (Nefasto)"])
+    "Muy bueno (Super atleta)", "Bueno (Deportista)", "Regular (Promedio)", "Malo (Nefasto)"])
 
 
 def obtener_estado_fisico(estado_fisico):
@@ -201,16 +202,23 @@ tabla.write(velocidad)
 
 # ======================== FUSION DE FILTROS MOSTRADO DE IMAGEN =========================
 
+# si no hay ningun pokemon que cumpla con los filtros mostrara un mensaje de error
+if len(velocidad) == 0:
+    st.error(
+        "No hay ningun pokemon que cumpla con los filtros seleccionados, pruebe a reajustar los filtros o seleccionar mas tipos diferentes.")
+else:
+    # enseñar campo en especifico de la tabla url_img
+    imagen_url = velocidad.url_img.iloc[0]
+    # st.image(imagen_url, width=400)
 
-# enseñar campo en especifico de la tabla url_img
-imagen_url = velocidad.url_img.iloc[0]
-# st.image(imagen_url, width=400)
+    # Redimensionar la imagen
+    imagen_redimensionada = Image.open(requests.get(
+        imagen_url, stream=True).raw).resize((700, 700))
+    # Mostrar la imagen redimensionada
+    # Mostrar en un parrafo texto con los datos fitrados
+    st.header('El pokemo de la :blue[generacion] ' + str(generacion.generation.unique()[0]) +
+              ' que mejor se adapta a ti es: ' + str(velocidad.nombre.iloc[0]))
 
-# Redimensionar la imagen
-imagen_redimensionada = Image.open(requests.get(
-    imagen_url, stream=True).raw).resize((700, 700))
-# Mostrar la imagen redimensionada
-st.header('Tu pokemon es: ' + str(velocidad.nombre.iloc[0]))
 st.image(imagen_redimensionada, caption='Imagen redimensionada')
 
 # ============================================================================
