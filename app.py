@@ -23,7 +23,9 @@ def load_data():
 
 pokemon_data = load_data()
 
-st.header('QUE POKEMON ERES TU?')
+# st.header('QUE POKEMON ERES TU?')
+# Crear un elemento vacío para la tabla
+tabla = st.empty()
 
 # ==============================================================
 
@@ -63,7 +65,10 @@ st.sidebar.write('Tu generación es la: ' +
                  str(obtener_generacion(edad).generation.unique()[0]))
 
 generacion = obtener_generacion(edad)
-st.write(generacion)
+
+tabla.write(generacion)
+# st.write(tabla)
+
 
 # ============================================================================
 
@@ -115,6 +120,11 @@ def obtener_tipo(preferencia):
 
 
 preferencia = obtener_tipo(preferencia)
+# juntar filtro de generacion y preferencia
+preferencia = generacion.merge(preferencia, how='inner')
+
+tabla.write(preferencia)
+
 
 # ============================================================================
 
@@ -137,6 +147,10 @@ def obtener_estado_fisico(estado_fisico):
 
 
 estado_fisico = obtener_estado_fisico(estado_fisico)
+# juntar filtro de estado_fisico y preferencia
+estado_fisico = preferencia.merge(estado_fisico, how='inner')
+
+tabla.write(estado_fisico)
 
 # ============================================================================
 
@@ -162,6 +176,10 @@ def obtener_pelea(defensa_personal):
 
 defensa_personal = obtener_pelea(defensa_personal)
 
+# juntar filtro de defensa_personal y preferencia
+defensa_personal = preferencia.merge(defensa_personal, how='inner')
+tabla.write(defensa_personal)
+
 
 # ============================================================================
 
@@ -169,29 +187,30 @@ defensa_personal = obtener_pelea(defensa_personal)
 
 # Crear un slider en el sidebar para seleccionar un rango de velocidad
 velocidad_min, velocidad_max = st.sidebar.slider(
-    "¿Como de veloz crees que eres en %?", 0, 200, (80, 120))
+    "¿Como de veloz crees que eres en % (pon de 0-max)?", 0, 200, (0, 100))
 # Filtrar los datos según el rango de velocidad seleccionado por el usuario
 velocidad = df[(df["Speed"] >= velocidad_min) &
                (df["Speed"] <= velocidad_max)]
 
+# juntar filtro de defensa_personal y velocidad
+velocidad = defensa_personal.merge(velocidad, how='inner')
+tabla.write(velocidad)
 
 # ============================================================================
 
 
-# ========================FUSION DE FILTROS=========================
-
-# Filtrar los datos según los filtros seleccionados por el usuario
-def filtrado_total():
-    return preferencia.merge(velocidad, how="inner").merge(estado_fisico, how="inner").merge(generacion, how="inner").merge(defensa_personal, how="inner")
+# ======================== FUSION DE FILTROS MOSTRADO DE IMAGEN =========================
 
 
 # enseñar campo en especifico de la tabla url_img
-imagen_url = filtrado_total().url_img.iloc[0]
+imagen_url = velocidad.url_img.iloc[0]
 # st.image(imagen_url, width=400)
 
 # Redimensionar la imagen
 imagen_redimensionada = Image.open(requests.get(
     imagen_url, stream=True).raw).resize((700, 700))
 # Mostrar la imagen redimensionada
-st.header('Tu pokemon es: ' + str(filtrado_total().nombre.iloc[0]))
+st.header('Tu pokemon es: ' + str(velocidad.nombre.iloc[0]))
 st.image(imagen_redimensionada, caption='Imagen redimensionada')
+
+# ============================================================================
