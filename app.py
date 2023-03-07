@@ -79,8 +79,6 @@ st.sidebar.title('Que te define mejor?')
 preferencia = st.sidebar.multiselect("Selecciona que te define mejor (3 max)", ["Bug", "Dark", "Dragon", "Electric",
                                                                                 "Fairy", "Fighting", "Fire", "Flying", "Ghost", "Grass", "Ground", "Ice", "Normal", "Poison", "Psychic", "Rock", "Steel", "Water"])
 
-# Filtrar los datos según la preferencia seleccionada por el usuario
-
 
 def obtener_tipo(preferencia):
     # Filtrar los datos según las 3 opciones seleccionadas por el usuario y que se apliquen únicamente al campo 'Type 1'
@@ -176,18 +174,22 @@ if len(velocidad) == 0:
     st.error(
         "No hay ningun pokemon que cumpla con los filtros seleccionados, pruebe a reajustar los filtros o seleccionar mas tipos diferentes.")
 else:
+
     # enseñar campo en especifico de la tabla url_img
     imagen_url = velocidad.url_img.iloc[0]
-    # st.image(imagen_url, width=400)
 
     # Redimensionar la imagen
     imagen_redimensionada = Image.open(requests.get(
         imagen_url, stream=True).raw).resize((700, 700))
-    # Mostrar la imagen redimensionada
-    # Mostrar en un parrafo texto con los datos fitrados
-    st.header('El pokemo de la :blue[generacion] ' + str(generacion.generation.unique()[0]) +
-              ' que mejor se adapta a ti es: ' + str(velocidad.nombre.iloc[0]))
 
-st.image(imagen_redimensionada, caption='Imagen redimensionada')
+    # Mostrar en un parrafo texto con los datos fitrados
+    st.header('El pokemon de la :blue[generacion] ' + str(generacion.generation.unique()[0]) +
+              ' que mejor se adapta a ti es: ' + str(velocidad.nombre.iloc[0]))
+    # Desactivar la opción de matplotlib para reducir el espacio entre el texto y la imagen
+    st.set_option('deprecation.showPyplotGlobalUse', False)
+    # Mostrar la imagen redimensionada
+    st.image(imagen_redimensionada,
+             caption='Imagen redimensionada', use_column_width=True)
+
 
 # ============================================================================
