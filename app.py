@@ -11,7 +11,8 @@ import numpy as np
 
 
 # URL con la lista de pokemones
-URL = 'https://raw.githubusercontent.com/DWES-LE/streamlit-2---cuadro-de-mandos-personal-DiegoTejadaOrea/main/datos_pokemon_actualizados.csv'
+URL = 'https://raw.githubusercontent.com/DWES-LE/streamlit-2---cuadro-de-mandos-personal-DiegoTejadaOrea/main/datos/datos_pokemon_actualizados.csv'
+
 
 # ============ generation Y CARGA DE DATOS ====================
 
@@ -78,46 +79,14 @@ st.sidebar.title('Que te define mejor?')
 preferencia = st.sidebar.multiselect("Selecciona que te define mejor (3 max)", ["Bug", "Dark", "Dragon", "Electric",
                                                                                 "Fairy", "Fighting", "Fire", "Flying", "Ghost", "Grass", "Ground", "Ice", "Normal", "Poison", "Psychic", "Rock", "Steel", "Water"])
 
+# Filtrar los datos según la preferencia seleccionada por el usuario
+
 
 def obtener_tipo(preferencia):
-    if preferencia == "Bug":
-        return df[df["Type 1"] == "Bug"]
-    elif preferencia == "Dark":
-        return df[df["Type 1"] == "Dark"]
-    elif preferencia == "Dragon":
-        return df[df["Type 1"] == "Dragon"]
-    elif preferencia == "Electric":
-        return df[df["Type 1"] == "Electric"]
-    elif preferencia == "Fairy":
-        return df[df["Type 1"] == "Fairy"]
-    elif preferencia == "Fighting":
-        return df[df["Type 1"] == "Fighting"]
-    elif preferencia == "Fire":
-        return df[df["Type 1"] == "Fire"]
-    elif preferencia == "Flying":
-        return df[df["Type 1"] == "Flying"]
-    elif preferencia == "Ghost":
-        return df[df["Type 1"] == "Ghost"]
-    elif preferencia == "Grass":
-        return df[df["Type 1"] == "Grass"]
-    elif preferencia == "Ground":
-        return df[df["Type 1"] == "Ground"]
-    elif preferencia == "Ice":
-        return df[df["Type 1"] == "Ice"]
-    elif preferencia == "Normal":
-        return df[df["Type 1"] == "Normal"]
-    elif preferencia == "Poison":
-        return df[df["Type 1"] == "Poison"]
-    elif preferencia == "Psychic":
-        return df[df["Type 1"] == "Psychic"]
-    elif preferencia == "Rock":
-        return df[df["Type 1"] == "Rock"]
-    elif preferencia == "Steel":
-        return df[df["Type 1"] == "Steel"]
-    elif preferencia == "Water":
-        return df[df["Type 1"] == "Water"]
-    else:
-        return df
+    # Filtrar los datos según las 3 opciones seleccionadas por el usuario y que se apliquen únicamente al campo 'Type 1'
+    filtro = preferencia[:3] if len(preferencia) > 3 else preferencia
+    df_filtered = df[df['Type 1'].isin(filtro)]
+    return df_filtered
 
 
 preferencia = obtener_tipo(preferencia)
